@@ -79,6 +79,20 @@ npm run dev
 
 ---
 
+```
+                React + Vite
+                      │
+             REST API / WebSocket
+                      │
+                FastAPI Backend
+                      │
+        ┌─────────────┼──────────────┐
+        │             │              │
+   PostgreSQL     Cloudinary      Groq AI
+      (Neon)        Storage      Symptom Analysis
+
+```
+
 ## 📂 Project Structure
 
 ```
@@ -142,6 +156,17 @@ RuralCare/
 
 
 ---
+
+## Screenshots
+<img width="1900" height="912" alt="image" src="https://github.com/user-attachments/assets/08cbf73a-05f2-4a3d-a7fc-c869d4fcfeaf" />
+<img width="1900" height="907" alt="image" src="https://github.com/user-attachments/assets/f43d3745-b4d8-4a53-9b52-2772c3a39bfa" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8f56f78-fb3a-4426-9936-2a235120ab4e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a93098e5-0f3c-41ff-8207-e17d033a43b5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b936579d-64d9-438d-b1b3-959322894165" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64e19033-cfb6-4fb2-803d-68cd78c53595" />
+
+
+
 
 ## 📄 License
 
