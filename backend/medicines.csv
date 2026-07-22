@@ -1,0 +1,1001 @@
+medicine_name,composition,medicine_type,price,quantity_available,pharmacy,prescription_required
+Amoxicillin 10mg Tablet,Amoxicillin 10mg,Tablet,168.24,40,Sharma Medical,True
+Amoxicillin 40mg Capsule,Amoxicillin 40mg,Capsule,32.28,28,MedPlus,True
+Atorvastatin 200mg Tablet,Atorvastatin 200mg,Tablet,138.86,171,Sharma Medical,True
+Losartan 5mg Drops,Losartan 5mg,Drops,298.6,76,Apollo Pharmacy,True
+Telmisartan 20mg Drops,Telmisartan 20mg,Drops,189.28,60,Wellness Forever,True
+Amoxicillin 40mg Capsule,Amoxicillin 40mg,Capsule,73.71,221,Wellness Forever,True
+Ofloxacin 250mg Cream,Ofloxacin 250mg,Cream,477.57,142,Apollo Pharmacy,True
+Methylcobalamin 200mg Capsule,Methylcobalamin 200mg,Capsule,199.05,165,Guardian Pharmacy,False
+Vitamin D3 500mg Injection,Vitamin D3 500mg,Injection,41.24,63,Wellness Forever,False
+Azithromycin 500mg Injection,Azithromycin 500mg,Injection,254.52,121,Sharma Medical,True
+Vitamin D3 20mg Syrup,Vitamin D3 20mg,Syrup,238.66,176,Wellness Forever,False
+Azithromycin 200mg Syrup,Azithromycin 200mg,Syrup,477.18,46,Netmeds,True
+Methylcobalamin 200mg Cream,Methylcobalamin 200mg,Cream,152.11,88,Apollo Pharmacy,False
+Atorvastatin 20mg Tablet,Atorvastatin 20mg,Tablet,267.94,21,MedPlus,True
+Cefixime 5mg Gel,Cefixime 5mg,Gel,430.17,106,Sharma Medical,True
+Aceclofenac 10mg Syrup,Aceclofenac 10mg,Syrup,101.08,195,Guardian Pharmacy,True
+Losartan 40mg Cream,Losartan 40mg,Cream,584.81,107,Wellness Forever,True
+Atorvastatin 200mg Syrup,Atorvastatin 200mg,Syrup,326.86,198,Apollo Pharmacy,True
+Amoxicillin 650mg Syrup,Amoxicillin 650mg,Syrup,517.35,113,Guardian Pharmacy,True
+Azithromycin 40mg Drops,Azithromycin 40mg,Drops,392.18,124,Guardian Pharmacy,True
+Pantoprazole 500mg Tablet,Pantoprazole 500mg,Tablet,446.93,142,Wellness Forever,False
+Levocetirizine 10mg Capsule,Levocetirizine 10mg,Capsule,289.38,121,Apollo Pharmacy,False
+Pantoprazole 200mg Syrup,Pantoprazole 200mg,Syrup,594.26,227,Sharma Medical,False
+Cetirizine 650mg Injection,Cetirizine 650mg,Injection,250.56,46,Guardian Pharmacy,False
+Rabeprazole 20mg Tablet,Rabeprazole 20mg,Tablet,323.73,33,Wellness Forever,False
+Cetirizine 250mg Injection,Cetirizine 250mg,Injection,165.68,150,Apollo Pharmacy,False
+Azithromycin 500mg Ointment,Azithromycin 500mg,Ointment,635.95,141,MedPlus,True
+Metformin 200mg Ointment,Metformin 200mg,Ointment,117.35,140,Guardian Pharmacy,True
+Diclofenac 200mg Injection,Diclofenac 200mg,Injection,493.86,181,MedPlus,True
+Cetirizine 20mg Drops,Cetirizine 20mg,Drops,291.51,137,Netmeds,False
+Amoxicillin 5mg Injection,Amoxicillin 5mg,Injection,52.85,10,Guardian Pharmacy,True
+Losartan 5mg Injection,Losartan 5mg,Injection,16.59,186,Sharma Medical,True
+Ibuprofen 500mg Injection,Ibuprofen 500mg,Injection,589.66,225,Wellness Forever,False
+Azithromycin 10mg Injection,Azithromycin 10mg,Injection,438.81,59,Guardian Pharmacy,True
+Metformin 5mg Ointment,Metformin 5mg,Ointment,512.59,211,Netmeds,True
+Amlodipine 500mg Capsule,Amlodipine 500mg,Capsule,432.43,95,Netmeds,True
+Diclofenac 250mg Ointment,Diclofenac 250mg,Ointment,441.61,170,Apollo Pharmacy,True
+Ibuprofen 20mg Drops,Ibuprofen 20mg,Drops,522.78,32,MedPlus,False
+Amlodipine 200mg Injection,Amlodipine 200mg,Injection,298.22,113,MedPlus,True
+Pantoprazole 5mg Ointment,Pantoprazole 5mg,Ointment,569.92,24,Netmeds,False
+Losartan 250mg Capsule,Losartan 250mg,Capsule,428.07,143,Apollo Pharmacy,True
+Azithromycin 650mg Injection,Azithromycin 650mg,Injection,271.29,128,MedPlus,True
+Methylcobalamin 650mg Tablet,Methylcobalamin 650mg,Tablet,253.78,104,Wellness Forever,False
+Aceclofenac 40mg Cream,Aceclofenac 40mg,Cream,456.43,192,Guardian Pharmacy,True
+Tramadol 5mg Syrup,Tramadol 5mg,Syrup,201.3,19,Guardian Pharmacy,True
+Losartan 20mg Tablet,Losartan 20mg,Tablet,48.47,154,Netmeds,True
+Rabeprazole 250mg Syrup,Rabeprazole 250mg,Syrup,624.98,25,MedPlus,False
+Azithromycin 5mg Capsule,Azithromycin 5mg,Capsule,269.61,246,Guardian Pharmacy,True
+Atorvastatin 500mg Tablet,Atorvastatin 500mg,Tablet,279.47,154,Guardian Pharmacy,True
+Rabeprazole 10mg Gel,Rabeprazole 10mg,Gel,142.32,188,Wellness Forever,False
+Atorvastatin 40mg Cream,Atorvastatin 40mg,Cream,95.5,170,Wellness Forever,True
+Aceclofenac 500mg Gel,Aceclofenac 500mg,Gel,17.94,164,Guardian Pharmacy,True
+Amoxicillin 200mg Capsule,Amoxicillin 200mg,Capsule,147.99,72,MedPlus,True
+Vitamin D3 5mg Capsule,Vitamin D3 5mg,Capsule,247.76,45,Netmeds,False
+Losartan 200mg Cream,Losartan 200mg,Cream,16.99,214,Guardian Pharmacy,True
+Cetirizine 650mg Capsule,Cetirizine 650mg,Capsule,180.73,232,Apollo Pharmacy,False
+Losartan 10mg Syrup,Losartan 10mg,Syrup,191.76,58,Sharma Medical,True
+Levocetirizine 10mg Injection,Levocetirizine 10mg,Injection,334.45,69,Apollo Pharmacy,False
+Azithromycin 10mg Drops,Azithromycin 10mg,Drops,40.13,90,MedPlus,True
+Pantoprazole 100mg Syrup,Pantoprazole 100mg,Syrup,363.97,114,Guardian Pharmacy,False
+Paracetamol 500mg Capsule,Paracetamol 500mg,Capsule,614.94,181,MedPlus,False
+Losartan 20mg Tablet,Losartan 20mg,Tablet,383.64,42,Netmeds,True
+Metformin 10mg Tablet,Metformin 10mg,Tablet,244.65,243,Apollo Pharmacy,True
+Vitamin D3 5mg Injection,Vitamin D3 5mg,Injection,437.5,95,Guardian Pharmacy,False
+Diclofenac 5mg Syrup,Diclofenac 5mg,Syrup,563.62,209,MedPlus,True
+Diclofenac 650mg Tablet,Diclofenac 650mg,Tablet,481.93,90,Netmeds,True
+Atorvastatin 650mg Cream,Atorvastatin 650mg,Cream,514.34,32,Netmeds,True
+Ibuprofen 5mg Ointment,Ibuprofen 5mg,Ointment,139.33,240,Netmeds,False
+Vitamin D3 5mg Cream,Vitamin D3 5mg,Cream,154.23,173,MedPlus,False
+Methylcobalamin 10mg Gel,Methylcobalamin 10mg,Gel,563.46,202,Wellness Forever,False
+Vitamin D3 200mg Drops,Vitamin D3 200mg,Drops,223.27,12,Apollo Pharmacy,False
+Pantoprazole 10mg Syrup,Pantoprazole 10mg,Syrup,36.41,157,Netmeds,False
+Vitamin D3 40mg Gel,Vitamin D3 40mg,Gel,398.76,135,Apollo Pharmacy,False
+Methylcobalamin 10mg Injection,Methylcobalamin 10mg,Injection,40.32,116,Apollo Pharmacy,False
+Rabeprazole 20mg Injection,Rabeprazole 20mg,Injection,287.17,247,Sharma Medical,False
+Levocetirizine 500mg Gel,Levocetirizine 500mg,Gel,471.2,81,Guardian Pharmacy,False
+Cetirizine 20mg Drops,Cetirizine 20mg,Drops,268.73,80,Guardian Pharmacy,False
+Metformin 40mg Injection,Metformin 40mg,Injection,436.22,102,Sharma Medical,True
+Telmisartan 40mg Cream,Telmisartan 40mg,Cream,361.58,5,Wellness Forever,True
+Cetirizine 40mg Injection,Cetirizine 40mg,Injection,513.31,160,Sharma Medical,False
+Levocetirizine 100mg Ointment,Levocetirizine 100mg,Ointment,294.1,59,Guardian Pharmacy,False
+Tramadol 500mg Syrup,Tramadol 500mg,Syrup,193.06,174,Sharma Medical,True
+Ofloxacin 500mg Gel,Ofloxacin 500mg,Gel,534.15,197,MedPlus,True
+Cetirizine 5mg Injection,Cetirizine 5mg,Injection,106.01,16,MedPlus,False
+Tramadol 100mg Capsule,Tramadol 100mg,Capsule,276.41,166,Guardian Pharmacy,True
+Amlodipine 100mg Drops,Amlodipine 100mg,Drops,266.98,42,Sharma Medical,True
+Paracetamol 40mg Capsule,Paracetamol 40mg,Capsule,151.62,210,Sharma Medical,False
+Rabeprazole 250mg Ointment,Rabeprazole 250mg,Ointment,367.62,239,Apollo Pharmacy,False
+Aceclofenac 100mg Syrup,Aceclofenac 100mg,Syrup,437.91,148,Guardian Pharmacy,True
+Levocetirizine 200mg Ointment,Levocetirizine 200mg,Ointment,284.26,237,Guardian Pharmacy,False
+Aceclofenac 100mg Syrup,Aceclofenac 100mg,Syrup,299.14,197,MedPlus,True
+Pantoprazole 5mg Ointment,Pantoprazole 5mg,Ointment,187.19,24,Sharma Medical,False
+Cetirizine 10mg Injection,Cetirizine 10mg,Injection,226.27,233,Guardian Pharmacy,False
+Azithromycin 650mg Syrup,Azithromycin 650mg,Syrup,159.54,182,MedPlus,True
+Amlodipine 40mg Capsule,Amlodipine 40mg,Capsule,272.05,143,Netmeds,True
+Diclofenac 5mg Tablet,Diclofenac 5mg,Tablet,543.38,104,Guardian Pharmacy,True
+Paracetamol 100mg Drops,Paracetamol 100mg,Drops,15.76,95,Wellness Forever,False
+Methylcobalamin 200mg Drops,Methylcobalamin 200mg,Drops,488.91,144,Guardian Pharmacy,False
+Atorvastatin 5mg Ointment,Atorvastatin 5mg,Ointment,186.13,129,Apollo Pharmacy,True
+Methylcobalamin 40mg Gel,Methylcobalamin 40mg,Gel,474.03,220,Netmeds,False
+Metformin 40mg Tablet,Metformin 40mg,Tablet,389.63,174,Apollo Pharmacy,True
+Azithromycin 650mg Drops,Azithromycin 650mg,Drops,565.05,51,Apollo Pharmacy,True
+Pantoprazole 20mg Drops,Pantoprazole 20mg,Drops,147.04,88,Wellness Forever,False
+Methylcobalamin 40mg Cream,Methylcobalamin 40mg,Cream,172.95,25,Netmeds,False
+Paracetamol 20mg Tablet,Paracetamol 20mg,Tablet,155.05,22,Sharma Medical,False
+Ibuprofen 5mg Tablet,Ibuprofen 5mg,Tablet,139.19,10,Guardian Pharmacy,False
+Metformin 650mg Injection,Metformin 650mg,Injection,314.13,34,Guardian Pharmacy,True
+Amlodipine 10mg Ointment,Amlodipine 10mg,Ointment,501.28,47,Guardian Pharmacy,True
+Ofloxacin 650mg Capsule,Ofloxacin 650mg,Capsule,627.49,32,Guardian Pharmacy,True
+Paracetamol 40mg Cream,Paracetamol 40mg,Cream,265.07,188,MedPlus,False
+Azithromycin 500mg Injection,Azithromycin 500mg,Injection,456.81,82,Sharma Medical,True
+Ofloxacin 250mg Capsule,Ofloxacin 250mg,Capsule,233.52,114,Sharma Medical,True
+Vitamin D3 200mg Capsule,Vitamin D3 200mg,Capsule,425.13,8,Netmeds,False
+Tramadol 40mg Capsule,Tramadol 40mg,Capsule,624.98,167,Netmeds,True
+Metformin 650mg Drops,Metformin 650mg,Drops,480.16,171,Wellness Forever,True
+Ofloxacin 100mg Ointment,Ofloxacin 100mg,Ointment,289.9,192,Guardian Pharmacy,True
+Pantoprazole 5mg Gel,Pantoprazole 5mg,Gel,542.01,27,Wellness Forever,False
+Aceclofenac 100mg Injection,Aceclofenac 100mg,Injection,375.56,176,Netmeds,True
+Levocetirizine 100mg Tablet,Levocetirizine 100mg,Tablet,554.91,51,Netmeds,False
+Amlodipine 10mg Gel,Amlodipine 10mg,Gel,229.14,230,Guardian Pharmacy,True
+Pantoprazole 200mg Tablet,Pantoprazole 200mg,Tablet,616.86,26,MedPlus,False
+Diclofenac 200mg Ointment,Diclofenac 200mg,Ointment,495.71,181,Netmeds,True
+Tramadol 250mg Ointment,Tramadol 250mg,Ointment,71.37,61,Netmeds,True
+Atorvastatin 20mg Cream,Atorvastatin 20mg,Cream,313.94,140,Wellness Forever,True
+Diclofenac 20mg Gel,Diclofenac 20mg,Gel,460.42,74,Wellness Forever,True
+Pantoprazole 500mg Injection,Pantoprazole 500mg,Injection,472.18,85,Apollo Pharmacy,False
+Losartan 5mg Syrup,Losartan 5mg,Syrup,150.05,128,Wellness Forever,True
+Cefixime 500mg Cream,Cefixime 500mg,Cream,543.22,80,MedPlus,True
+Vitamin D3 10mg Syrup,Vitamin D3 10mg,Syrup,21.03,141,MedPlus,False
+Pantoprazole 250mg Tablet,Pantoprazole 250mg,Tablet,365.04,183,MedPlus,False
+Tramadol 250mg Capsule,Tramadol 250mg,Capsule,378.25,125,Netmeds,True
+Aceclofenac 650mg Gel,Aceclofenac 650mg,Gel,627.99,69,Netmeds,True
+Amoxicillin 40mg Capsule,Amoxicillin 40mg,Capsule,325.73,152,Sharma Medical,True
+Ibuprofen 650mg Syrup,Ibuprofen 650mg,Syrup,529.51,247,Wellness Forever,False
+Azithromycin 500mg Injection,Azithromycin 500mg,Injection,368.05,111,Guardian Pharmacy,True
+Ofloxacin 200mg Injection,Ofloxacin 200mg,Injection,254.68,237,Netmeds,True
+Cetirizine 10mg Drops,Cetirizine 10mg,Drops,374.79,20,Guardian Pharmacy,False
+Amoxicillin 5mg Injection,Amoxicillin 5mg,Injection,180.84,25,MedPlus,True
+Atorvastatin 200mg Syrup,Atorvastatin 200mg,Syrup,59.89,5,Netmeds,True
+Aceclofenac 10mg Ointment,Aceclofenac 10mg,Ointment,32.82,78,Sharma Medical,True
+Cetirizine 500mg Ointment,Cetirizine 500mg,Ointment,450.55,241,Wellness Forever,False
+Cefixime 40mg Injection,Cefixime 40mg,Injection,85.23,62,Sharma Medical,True
+Metformin 650mg Cream,Metformin 650mg,Cream,57.56,47,Wellness Forever,True
+Ofloxacin 100mg Cream,Ofloxacin 100mg,Cream,91.34,181,Wellness Forever,True
+Methylcobalamin 200mg Cream,Methylcobalamin 200mg,Cream,356.51,117,Apollo Pharmacy,False
+Ofloxacin 40mg Tablet,Ofloxacin 40mg,Tablet,480.63,159,Wellness Forever,True
+Paracetamol 5mg Capsule,Paracetamol 5mg,Capsule,625.7,219,Guardian Pharmacy,False
+Cefixime 10mg Tablet,Cefixime 10mg,Tablet,379.65,200,MedPlus,True
+Tramadol 10mg Ointment,Tramadol 10mg,Ointment,127.79,154,Netmeds,True
+Tramadol 100mg Capsule,Tramadol 100mg,Capsule,234.0,90,Wellness Forever,True
+Amoxicillin 20mg Syrup,Amoxicillin 20mg,Syrup,274.63,131,Wellness Forever,True
+Methylcobalamin 100mg Tablet,Methylcobalamin 100mg,Tablet,68.18,69,Wellness Forever,False
+Amoxicillin 200mg Drops,Amoxicillin 200mg,Drops,538.3,5,Sharma Medical,True
+Losartan 40mg Ointment,Losartan 40mg,Ointment,46.58,137,Wellness Forever,True
+Ofloxacin 100mg Ointment,Ofloxacin 100mg,Ointment,496.87,57,Wellness Forever,True
+Losartan 10mg Syrup,Losartan 10mg,Syrup,291.52,183,Netmeds,True
+Amoxicillin 5mg Tablet,Amoxicillin 5mg,Tablet,464.84,84,Guardian Pharmacy,True
+Paracetamol 500mg Drops,Paracetamol 500mg,Drops,155.36,220,Apollo Pharmacy,False
+Aceclofenac 650mg Capsule,Aceclofenac 650mg,Capsule,329.96,188,Wellness Forever,True
+Rabeprazole 40mg Cream,Rabeprazole 40mg,Cream,544.55,125,MedPlus,False
+Aceclofenac 40mg Syrup,Aceclofenac 40mg,Syrup,133.61,158,Guardian Pharmacy,True
+Metformin 10mg Capsule,Metformin 10mg,Capsule,504.97,223,Netmeds,True
+Levocetirizine 250mg Cream,Levocetirizine 250mg,Cream,192.45,81,Guardian Pharmacy,False
+Cefixime 650mg Ointment,Cefixime 650mg,Ointment,296.9,128,Wellness Forever,True
+Levocetirizine 100mg Drops,Levocetirizine 100mg,Drops,607.16,227,MedPlus,False
+Atorvastatin 5mg Drops,Atorvastatin 5mg,Drops,558.14,110,Apollo Pharmacy,True
+Levocetirizine 40mg Ointment,Levocetirizine 40mg,Ointment,258.32,174,Sharma Medical,False
+Metformin 250mg Ointment,Metformin 250mg,Ointment,92.55,156,Wellness Forever,True
+Amoxicillin 500mg Ointment,Amoxicillin 500mg,Ointment,347.56,121,Apollo Pharmacy,True
+Metformin 650mg Drops,Metformin 650mg,Drops,59.74,205,Wellness Forever,True
+Levocetirizine 500mg Drops,Levocetirizine 500mg,Drops,555.43,223,Sharma Medical,False
+Losartan 20mg Drops,Losartan 20mg,Drops,411.9,232,Netmeds,True
+Losartan 500mg Tablet,Losartan 500mg,Tablet,161.78,180,Wellness Forever,True
+Atorvastatin 40mg Capsule,Atorvastatin 40mg,Capsule,636.18,199,Sharma Medical,True
+Amoxicillin 650mg Ointment,Amoxicillin 650mg,Ointment,454.77,236,Apollo Pharmacy,True
+Ibuprofen 250mg Gel,Ibuprofen 250mg,Gel,199.17,100,Netmeds,False
+Metformin 200mg Injection,Metformin 200mg,Injection,274.89,179,MedPlus,True
+Telmisartan 500mg Syrup,Telmisartan 500mg,Syrup,400.86,102,Guardian Pharmacy,True
+Atorvastatin 650mg Ointment,Atorvastatin 650mg,Ointment,160.14,168,Wellness Forever,True
+Aceclofenac 250mg Cream,Aceclofenac 250mg,Cream,585.5,124,Wellness Forever,True
+Losartan 500mg Syrup,Losartan 500mg,Syrup,293.82,93,Guardian Pharmacy,True
+Cetirizine 10mg Drops,Cetirizine 10mg,Drops,303.46,82,MedPlus,False
+Methylcobalamin 500mg Ointment,Methylcobalamin 500mg,Ointment,163.34,151,Wellness Forever,False
+Cefixime 10mg Cream,Cefixime 10mg,Cream,26.0,217,Sharma Medical,True
+Methylcobalamin 250mg Cream,Methylcobalamin 250mg,Cream,373.06,180,Sharma Medical,False
+Ibuprofen 10mg Ointment,Ibuprofen 10mg,Ointment,506.92,63,Guardian Pharmacy,False
+Vitamin D3 5mg Injection,Vitamin D3 5mg,Injection,408.13,178,Sharma Medical,False
+Metformin 250mg Capsule,Metformin 250mg,Capsule,209.1,117,Apollo Pharmacy,True
+Cefixime 650mg Gel,Cefixime 650mg,Gel,69.51,80,Wellness Forever,True
+Diclofenac 5mg Syrup,Diclofenac 5mg,Syrup,96.32,143,Wellness Forever,True
+Rabeprazole 650mg Cream,Rabeprazole 650mg,Cream,175.95,216,Netmeds,False
+Cetirizine 500mg Gel,Cetirizine 500mg,Gel,310.8,24,MedPlus,False
+Atorvastatin 200mg Drops,Atorvastatin 200mg,Drops,245.36,207,Netmeds,True
+Paracetamol 200mg Cream,Paracetamol 200mg,Cream,90.85,99,Sharma Medical,False
+Pantoprazole 20mg Drops,Pantoprazole 20mg,Drops,81.12,64,Netmeds,False
+Paracetamol 5mg Gel,Paracetamol 5mg,Gel,425.2,167,Netmeds,False
+Cetirizine 500mg Drops,Cetirizine 500mg,Drops,101.18,247,Apollo Pharmacy,False
+Cetirizine 500mg Ointment,Cetirizine 500mg,Ointment,74.01,232,Guardian Pharmacy,False
+Metformin 100mg Drops,Metformin 100mg,Drops,248.71,248,Sharma Medical,True
+Losartan 650mg Drops,Losartan 650mg,Drops,576.89,172,Apollo Pharmacy,True
+Tramadol 10mg Drops,Tramadol 10mg,Drops,32.87,99,MedPlus,True
+Aceclofenac 5mg Ointment,Aceclofenac 5mg,Ointment,557.78,30,Sharma Medical,True
+Vitamin D3 250mg Gel,Vitamin D3 250mg,Gel,266.01,53,Apollo Pharmacy,False
+Aceclofenac 5mg Capsule,Aceclofenac 5mg,Capsule,421.41,157,Apollo Pharmacy,True
+Ibuprofen 5mg Gel,Ibuprofen 5mg,Gel,642.87,206,Guardian Pharmacy,False
+Amlodipine 200mg Capsule,Amlodipine 200mg,Capsule,144.17,60,MedPlus,True
+Levocetirizine 250mg Syrup,Levocetirizine 250mg,Syrup,188.9,42,MedPlus,False
+Losartan 650mg Cream,Losartan 650mg,Cream,82.13,226,Apollo Pharmacy,True
+Metformin 20mg Tablet,Metformin 20mg,Tablet,516.01,65,Guardian Pharmacy,True
+Levocetirizine 650mg Tablet,Levocetirizine 650mg,Tablet,181.3,37,Sharma Medical,False
+Diclofenac 500mg Capsule,Diclofenac 500mg,Capsule,315.84,204,Wellness Forever,True
+Rabeprazole 100mg Capsule,Rabeprazole 100mg,Capsule,333.45,247,Guardian Pharmacy,False
+Ibuprofen 100mg Cream,Ibuprofen 100mg,Cream,422.45,12,Apollo Pharmacy,False
+Tramadol 40mg Drops,Tramadol 40mg,Drops,449.73,130,Sharma Medical,True
+Aceclofenac 500mg Capsule,Aceclofenac 500mg,Capsule,217.51,42,Apollo Pharmacy,True
+Metformin 200mg Cream,Metformin 200mg,Cream,466.35,102,Guardian Pharmacy,True
+Rabeprazole 100mg Cream,Rabeprazole 100mg,Cream,334.54,115,Apollo Pharmacy,False
+Amoxicillin 40mg Injection,Amoxicillin 40mg,Injection,300.09,63,Netmeds,True
+Levocetirizine 40mg Ointment,Levocetirizine 40mg,Ointment,277.4,29,Wellness Forever,False
+Diclofenac 10mg Gel,Diclofenac 10mg,Gel,250.8,44,Sharma Medical,True
+Tramadol 500mg Capsule,Tramadol 500mg,Capsule,542.67,28,Netmeds,True
+Amoxicillin 650mg Gel,Amoxicillin 650mg,Gel,366.96,155,Guardian Pharmacy,True
+Losartan 500mg Gel,Losartan 500mg,Gel,274.1,228,Sharma Medical,True
+Diclofenac 10mg Tablet,Diclofenac 10mg,Tablet,395.06,95,Apollo Pharmacy,True
+Cefixime 650mg Injection,Cefixime 650mg,Injection,431.0,62,Apollo Pharmacy,True
+Vitamin D3 500mg Gel,Vitamin D3 500mg,Gel,498.54,151,MedPlus,False
+Diclofenac 10mg Tablet,Diclofenac 10mg,Tablet,30.47,74,Sharma Medical,True
+Cetirizine 20mg Gel,Cetirizine 20mg,Gel,15.9,227,MedPlus,False
+Cefixime 500mg Drops,Cefixime 500mg,Drops,102.52,167,Apollo Pharmacy,True
+Azithromycin 40mg Injection,Azithromycin 40mg,Injection,279.85,92,MedPlus,True
+Vitamin D3 20mg Cream,Vitamin D3 20mg,Cream,507.62,150,Guardian Pharmacy,False
+Azithromycin 650mg Tablet,Azithromycin 650mg,Tablet,112.43,163,Apollo Pharmacy,True
+Azithromycin 100mg Cream,Azithromycin 100mg,Cream,434.32,129,Guardian Pharmacy,True
+Aceclofenac 10mg Drops,Aceclofenac 10mg,Drops,149.53,136,Apollo Pharmacy,True
+Vitamin D3 500mg Drops,Vitamin D3 500mg,Drops,192.71,178,Guardian Pharmacy,False
+Tramadol 250mg Cream,Tramadol 250mg,Cream,152.69,158,Apollo Pharmacy,True
+Paracetamol 10mg Injection,Paracetamol 10mg,Injection,615.12,201,MedPlus,False
+Pantoprazole 20mg Cream,Pantoprazole 20mg,Cream,88.55,132,Sharma Medical,False
+Diclofenac 650mg Syrup,Diclofenac 650mg,Syrup,254.57,185,MedPlus,True
+Rabeprazole 500mg Gel,Rabeprazole 500mg,Gel,265.33,194,Apollo Pharmacy,False
+Diclofenac 100mg Tablet,Diclofenac 100mg,Tablet,599.7,225,Wellness Forever,True
+Cefixime 40mg Drops,Cefixime 40mg,Drops,464.66,111,Wellness Forever,True
+Amoxicillin 250mg Drops,Amoxicillin 250mg,Drops,628.44,48,Guardian Pharmacy,True
+Aceclofenac 500mg Gel,Aceclofenac 500mg,Gel,290.62,32,MedPlus,True
+Diclofenac 200mg Drops,Diclofenac 200mg,Drops,62.18,227,Wellness Forever,True
+Levocetirizine 20mg Injection,Levocetirizine 20mg,Injection,509.08,24,Guardian Pharmacy,False
+Amoxicillin 20mg Injection,Amoxicillin 20mg,Injection,236.0,250,Sharma Medical,True
+Metformin 500mg Injection,Metformin 500mg,Injection,105.43,55,MedPlus,True
+Ofloxacin 500mg Syrup,Ofloxacin 500mg,Syrup,125.02,202,Sharma Medical,True
+Tramadol 100mg Ointment,Tramadol 100mg,Ointment,446.56,230,Guardian Pharmacy,True
+Ofloxacin 20mg Gel,Ofloxacin 20mg,Gel,108.31,22,Netmeds,True
+Aceclofenac 10mg Cream,Aceclofenac 10mg,Cream,389.33,95,Guardian Pharmacy,True
+Azithromycin 100mg Cream,Azithromycin 100mg,Cream,300.32,19,Wellness Forever,True
+Cetirizine 500mg Capsule,Cetirizine 500mg,Capsule,404.38,134,Netmeds,False
+Aceclofenac 100mg Tablet,Aceclofenac 100mg,Tablet,591.97,151,Sharma Medical,True
+Amlodipine 100mg Gel,Amlodipine 100mg,Gel,331.87,250,Apollo Pharmacy,True
+Aceclofenac 20mg Capsule,Aceclofenac 20mg,Capsule,638.76,26,Guardian Pharmacy,True
+Telmisartan 5mg Tablet,Telmisartan 5mg,Tablet,463.46,117,Guardian Pharmacy,True
+Rabeprazole 20mg Syrup,Rabeprazole 20mg,Syrup,249.88,77,Netmeds,False
+Diclofenac 250mg Gel,Diclofenac 250mg,Gel,515.53,170,Wellness Forever,True
+Azithromycin 500mg Gel,Azithromycin 500mg,Gel,367.98,103,Wellness Forever,True
+Pantoprazole 20mg Syrup,Pantoprazole 20mg,Syrup,64.0,174,MedPlus,False
+Vitamin D3 40mg Cream,Vitamin D3 40mg,Cream,94.27,186,Apollo Pharmacy,False
+Cetirizine 20mg Drops,Cetirizine 20mg,Drops,530.81,176,Sharma Medical,False
+Rabeprazole 40mg Capsule,Rabeprazole 40mg,Capsule,336.42,9,Wellness Forever,False
+Cetirizine 5mg Syrup,Cetirizine 5mg,Syrup,230.03,201,Netmeds,False
+Amlodipine 650mg Injection,Amlodipine 650mg,Injection,110.86,80,Apollo Pharmacy,True
+Rabeprazole 20mg Tablet,Rabeprazole 20mg,Tablet,571.14,163,MedPlus,False
+Ofloxacin 650mg Drops,Ofloxacin 650mg,Drops,115.51,217,Sharma Medical,True
+Ofloxacin 100mg Syrup,Ofloxacin 100mg,Syrup,39.88,98,Sharma Medical,True
+Atorvastatin 10mg Ointment,Atorvastatin 10mg,Ointment,492.03,205,Netmeds,True
+Atorvastatin 10mg Injection,Atorvastatin 10mg,Injection,628.05,205,Netmeds,True
+Amlodipine 100mg Gel,Amlodipine 100mg,Gel,306.55,77,Netmeds,True
+Rabeprazole 650mg Drops,Rabeprazole 650mg,Drops,533.18,210,Guardian Pharmacy,False
+Metformin 250mg Cream,Metformin 250mg,Cream,421.07,228,Wellness Forever,True
+Losartan 200mg Capsule,Losartan 200mg,Capsule,555.04,77,Apollo Pharmacy,True
+Telmisartan 100mg Cream,Telmisartan 100mg,Cream,589.59,42,Netmeds,True
+Azithromycin 100mg Injection,Azithromycin 100mg,Injection,576.39,243,Apollo Pharmacy,True
+Diclofenac 40mg Tablet,Diclofenac 40mg,Tablet,332.28,65,Netmeds,True
+Azithromycin 5mg Gel,Azithromycin 5mg,Gel,29.98,243,Apollo Pharmacy,True
+Levocetirizine 650mg Syrup,Levocetirizine 650mg,Syrup,36.44,239,Netmeds,False
+Metformin 100mg Ointment,Metformin 100mg,Ointment,404.59,236,Apollo Pharmacy,True
+Paracetamol 5mg Cream,Paracetamol 5mg,Cream,544.71,145,Sharma Medical,False
+Ofloxacin 500mg Drops,Ofloxacin 500mg,Drops,507.2,65,Wellness Forever,True
+Amoxicillin 5mg Tablet,Amoxicillin 5mg,Tablet,279.85,208,Guardian Pharmacy,True
+Aceclofenac 500mg Capsule,Aceclofenac 500mg,Capsule,545.81,132,Guardian Pharmacy,True
+Losartan 200mg Tablet,Losartan 200mg,Tablet,378.88,188,MedPlus,True
+Cetirizine 250mg Drops,Cetirizine 250mg,Drops,404.25,66,Guardian Pharmacy,False
+Diclofenac 500mg Syrup,Diclofenac 500mg,Syrup,345.98,97,Apollo Pharmacy,True
+Rabeprazole 40mg Tablet,Rabeprazole 40mg,Tablet,569.19,16,Sharma Medical,False
+Methylcobalamin 10mg Gel,Methylcobalamin 10mg,Gel,488.79,96,Apollo Pharmacy,False
+Vitamin D3 500mg Injection,Vitamin D3 500mg,Injection,504.22,193,Wellness Forever,False
+Metformin 20mg Tablet,Metformin 20mg,Tablet,360.36,213,Sharma Medical,True
+Telmisartan 100mg Ointment,Telmisartan 100mg,Ointment,415.05,212,MedPlus,True
+Azithromycin 250mg Ointment,Azithromycin 250mg,Ointment,199.22,16,MedPlus,True
+Ibuprofen 10mg Gel,Ibuprofen 10mg,Gel,340.81,213,Guardian Pharmacy,False
+Tramadol 250mg Cream,Tramadol 250mg,Cream,492.6,53,Wellness Forever,True
+Vitamin D3 20mg Tablet,Vitamin D3 20mg,Tablet,186.31,209,Wellness Forever,False
+Diclofenac 100mg Drops,Diclofenac 100mg,Drops,582.78,103,Wellness Forever,True
+Telmisartan 100mg Ointment,Telmisartan 100mg,Ointment,246.37,209,Guardian Pharmacy,True
+Pantoprazole 40mg Capsule,Pantoprazole 40mg,Capsule,62.36,159,MedPlus,False
+Losartan 20mg Cream,Losartan 20mg,Cream,77.46,88,Sharma Medical,True
+Cetirizine 100mg Cream,Cetirizine 100mg,Cream,396.47,114,MedPlus,False
+Aceclofenac 100mg Gel,Aceclofenac 100mg,Gel,39.02,227,Wellness Forever,True
+Ofloxacin 10mg Drops,Ofloxacin 10mg,Drops,419.98,207,Apollo Pharmacy,True
+Azithromycin 20mg Drops,Azithromycin 20mg,Drops,339.35,196,Sharma Medical,True
+Telmisartan 650mg Tablet,Telmisartan 650mg,Tablet,553.45,178,Netmeds,True
+Ibuprofen 500mg Syrup,Ibuprofen 500mg,Syrup,162.57,170,Wellness Forever,False
+Vitamin D3 250mg Drops,Vitamin D3 250mg,Drops,398.05,178,Netmeds,False
+Vitamin D3 100mg Gel,Vitamin D3 100mg,Gel,498.85,151,MedPlus,False
+Rabeprazole 40mg Gel,Rabeprazole 40mg,Gel,212.58,76,MedPlus,False
+Amoxicillin 650mg Tablet,Amoxicillin 650mg,Tablet,330.39,104,Guardian Pharmacy,True
+Amoxicillin 10mg Cream,Amoxicillin 10mg,Cream,461.18,59,Guardian Pharmacy,True
+Cetirizine 5mg Ointment,Cetirizine 5mg,Ointment,90.24,223,Apollo Pharmacy,False
+Aceclofenac 100mg Syrup,Aceclofenac 100mg,Syrup,648.25,212,Sharma Medical,True
+Levocetirizine 500mg Gel,Levocetirizine 500mg,Gel,362.9,79,Wellness Forever,False
+Telmisartan 20mg Syrup,Telmisartan 20mg,Syrup,336.59,36,MedPlus,True
+Metformin 100mg Injection,Metformin 100mg,Injection,28.77,146,Guardian Pharmacy,True
+Vitamin D3 200mg Ointment,Vitamin D3 200mg,Ointment,94.79,231,Apollo Pharmacy,False
+Azithromycin 40mg Cream,Azithromycin 40mg,Cream,649.74,189,Netmeds,True
+Rabeprazole 40mg Drops,Rabeprazole 40mg,Drops,537.29,23,MedPlus,False
+Levocetirizine 100mg Capsule,Levocetirizine 100mg,Capsule,309.2,137,Wellness Forever,False
+Metformin 650mg Syrup,Metformin 650mg,Syrup,288.01,238,Apollo Pharmacy,True
+Amoxicillin 10mg Syrup,Amoxicillin 10mg,Syrup,117.05,87,Sharma Medical,True
+Atorvastatin 200mg Gel,Atorvastatin 200mg,Gel,582.96,221,Apollo Pharmacy,True
+Pantoprazole 200mg Injection,Pantoprazole 200mg,Injection,187.1,165,Wellness Forever,False
+Ofloxacin 200mg Capsule,Ofloxacin 200mg,Capsule,420.95,156,Guardian Pharmacy,True
+Metformin 20mg Syrup,Metformin 20mg,Syrup,549.53,149,Apollo Pharmacy,True
+Paracetamol 250mg Capsule,Paracetamol 250mg,Capsule,617.17,202,Guardian Pharmacy,False
+Pantoprazole 40mg Injection,Pantoprazole 40mg,Injection,406.35,12,Netmeds,False
+Losartan 10mg Cream,Losartan 10mg,Cream,320.12,211,Sharma Medical,True
+Methylcobalamin 100mg Cream,Methylcobalamin 100mg,Cream,58.56,20,MedPlus,False
+Aceclofenac 100mg Drops,Aceclofenac 100mg,Drops,308.31,92,Guardian Pharmacy,True
+Metformin 20mg Gel,Metformin 20mg,Gel,480.42,225,Wellness Forever,True
+Methylcobalamin 20mg Syrup,Methylcobalamin 20mg,Syrup,340.56,32,Wellness Forever,False
+Atorvastatin 500mg Ointment,Atorvastatin 500mg,Ointment,182.65,68,MedPlus,True
+Amoxicillin 10mg Tablet,Amoxicillin 10mg,Tablet,615.16,226,Guardian Pharmacy,True
+Diclofenac 650mg Injection,Diclofenac 650mg,Injection,531.0,244,Guardian Pharmacy,True
+Levocetirizine 650mg Injection,Levocetirizine 650mg,Injection,329.89,136,Netmeds,False
+Tramadol 100mg Cream,Tramadol 100mg,Cream,26.79,246,Netmeds,True
+Rabeprazole 5mg Ointment,Rabeprazole 5mg,Ointment,149.26,95,Apollo Pharmacy,False
+Ibuprofen 100mg Cream,Ibuprofen 100mg,Cream,393.22,220,Sharma Medical,False
+Tramadol 200mg Cream,Tramadol 200mg,Cream,17.22,32,Netmeds,True
+Metformin 20mg Cream,Metformin 20mg,Cream,499.34,98,Apollo Pharmacy,True
+Methylcobalamin 200mg Tablet,Methylcobalamin 200mg,Tablet,136.19,146,Wellness Forever,False
+Azithromycin 200mg Drops,Azithromycin 200mg,Drops,299.33,145,Wellness Forever,True
+Ofloxacin 650mg Capsule,Ofloxacin 650mg,Capsule,634.1,105,Wellness Forever,True
+Levocetirizine 650mg Gel,Levocetirizine 650mg,Gel,139.0,135,Netmeds,False
+Rabeprazole 250mg Tablet,Rabeprazole 250mg,Tablet,36.83,187,Wellness Forever,False
+Tramadol 650mg Ointment,Tramadol 650mg,Ointment,398.79,136,MedPlus,True
+Levocetirizine 650mg Gel,Levocetirizine 650mg,Gel,262.71,162,Sharma Medical,False
+Cetirizine 200mg Gel,Cetirizine 200mg,Gel,540.45,141,Netmeds,False
+Cefixime 100mg Cream,Cefixime 100mg,Cream,532.45,99,Wellness Forever,True
+Amoxicillin 10mg Drops,Amoxicillin 10mg,Drops,520.33,190,Sharma Medical,True
+Paracetamol 10mg Ointment,Paracetamol 10mg,Ointment,628.99,205,Guardian Pharmacy,False
+Cefixime 250mg Injection,Cefixime 250mg,Injection,384.29,48,Guardian Pharmacy,True
+Ofloxacin 650mg Drops,Ofloxacin 650mg,Drops,536.22,67,Apollo Pharmacy,True
+Cefixime 5mg Capsule,Cefixime 5mg,Capsule,24.08,85,Netmeds,True
+Metformin 5mg Drops,Metformin 5mg,Drops,273.82,203,Guardian Pharmacy,True
+Tramadol 650mg Tablet,Tramadol 650mg,Tablet,342.92,148,Wellness Forever,True
+Tramadol 20mg Drops,Tramadol 20mg,Drops,622.37,122,Guardian Pharmacy,True
+Levocetirizine 10mg Gel,Levocetirizine 10mg,Gel,401.23,54,MedPlus,False
+Pantoprazole 5mg Cream,Pantoprazole 5mg,Cream,612.67,81,Wellness Forever,False
+Amlodipine 20mg Ointment,Amlodipine 20mg,Ointment,318.11,148,Sharma Medical,True
+Pantoprazole 500mg Cream,Pantoprazole 500mg,Cream,377.88,144,Netmeds,False
+Methylcobalamin 650mg Gel,Methylcobalamin 650mg,Gel,197.31,78,Sharma Medical,False
+Azithromycin 100mg Gel,Azithromycin 100mg,Gel,430.51,196,Netmeds,True
+Amlodipine 200mg Injection,Amlodipine 200mg,Injection,184.98,148,Sharma Medical,True
+Pantoprazole 500mg Syrup,Pantoprazole 500mg,Syrup,404.8,155,MedPlus,False
+Atorvastatin 200mg Tablet,Atorvastatin 200mg,Tablet,155.98,64,Apollo Pharmacy,True
+Amoxicillin 20mg Drops,Amoxicillin 20mg,Drops,469.67,30,Sharma Medical,True
+Metformin 200mg Tablet,Metformin 200mg,Tablet,635.91,45,Netmeds,True
+Tramadol 5mg Ointment,Tramadol 5mg,Ointment,494.27,78,Wellness Forever,True
+Cetirizine 500mg Tablet,Cetirizine 500mg,Tablet,428.17,64,Guardian Pharmacy,False
+Ibuprofen 40mg Syrup,Ibuprofen 40mg,Syrup,574.87,50,Apollo Pharmacy,False
+Methylcobalamin 650mg Ointment,Methylcobalamin 650mg,Ointment,609.56,228,Wellness Forever,False
+Ibuprofen 10mg Tablet,Ibuprofen 10mg,Tablet,374.36,32,Wellness Forever,False
+Cetirizine 200mg Ointment,Cetirizine 200mg,Ointment,346.52,232,MedPlus,False
+Rabeprazole 10mg Ointment,Rabeprazole 10mg,Ointment,135.01,33,Wellness Forever,False
+Telmisartan 10mg Ointment,Telmisartan 10mg,Ointment,470.47,8,Sharma Medical,True
+Levocetirizine 5mg Cream,Levocetirizine 5mg,Cream,123.97,224,Sharma Medical,False
+Methylcobalamin 200mg Drops,Methylcobalamin 200mg,Drops,221.22,107,Sharma Medical,False
+Amoxicillin 650mg Syrup,Amoxicillin 650mg,Syrup,316.62,244,MedPlus,True
+Paracetamol 40mg Cream,Paracetamol 40mg,Cream,162.26,197,Wellness Forever,False
+Levocetirizine 250mg Cream,Levocetirizine 250mg,Cream,178.87,97,Sharma Medical,False
+Atorvastatin 500mg Tablet,Atorvastatin 500mg,Tablet,308.92,45,Netmeds,True
+Rabeprazole 500mg Cream,Rabeprazole 500mg,Cream,419.5,245,Wellness Forever,False
+Vitamin D3 5mg Injection,Vitamin D3 5mg,Injection,622.8,127,MedPlus,False
+Aceclofenac 40mg Gel,Aceclofenac 40mg,Gel,459.84,238,Netmeds,True
+Losartan 5mg Injection,Losartan 5mg,Injection,446.06,157,Apollo Pharmacy,True
+Rabeprazole 200mg Ointment,Rabeprazole 200mg,Ointment,461.0,24,Guardian Pharmacy,False
+Amoxicillin 200mg Tablet,Amoxicillin 200mg,Tablet,588.04,56,Guardian Pharmacy,True
+Losartan 650mg Syrup,Losartan 650mg,Syrup,221.34,138,Netmeds,True
+Amoxicillin 100mg Injection,Amoxicillin 100mg,Injection,70.02,135,Netmeds,True
+Ibuprofen 650mg Ointment,Ibuprofen 650mg,Ointment,339.45,121,Guardian Pharmacy,False
+Ibuprofen 10mg Ointment,Ibuprofen 10mg,Ointment,473.45,106,Wellness Forever,False
+Paracetamol 500mg Injection,Paracetamol 500mg,Injection,40.89,93,Sharma Medical,False
+Azithromycin 500mg Tablet,Azithromycin 500mg,Tablet,641.16,125,Apollo Pharmacy,True
+Cetirizine 650mg Drops,Cetirizine 650mg,Drops,502.6,201,Sharma Medical,False
+Diclofenac 40mg Gel,Diclofenac 40mg,Gel,298.17,239,Netmeds,True
+Methylcobalamin 200mg Capsule,Methylcobalamin 200mg,Capsule,96.85,225,Wellness Forever,False
+Amoxicillin 200mg Syrup,Amoxicillin 200mg,Syrup,262.77,37,Sharma Medical,True
+Atorvastatin 250mg Tablet,Atorvastatin 250mg,Tablet,636.28,123,Sharma Medical,True
+Losartan 200mg Drops,Losartan 200mg,Drops,253.98,63,MedPlus,True
+Aceclofenac 650mg Gel,Aceclofenac 650mg,Gel,187.86,244,Sharma Medical,True
+Amoxicillin 40mg Tablet,Amoxicillin 40mg,Tablet,404.32,244,Apollo Pharmacy,True
+Atorvastatin 500mg Injection,Atorvastatin 500mg,Injection,76.37,13,Netmeds,True
+Ofloxacin 5mg Tablet,Ofloxacin 5mg,Tablet,484.47,107,Netmeds,True
+Atorvastatin 250mg Injection,Atorvastatin 250mg,Injection,101.41,79,MedPlus,True
+Cefixime 20mg Gel,Cefixime 20mg,Gel,163.14,229,MedPlus,True
+Rabeprazole 40mg Injection,Rabeprazole 40mg,Injection,203.72,20,Guardian Pharmacy,False
+Cefixime 40mg Syrup,Cefixime 40mg,Syrup,366.63,17,Wellness Forever,True
+Methylcobalamin 40mg Gel,Methylcobalamin 40mg,Gel,272.47,81,Netmeds,False
+Telmisartan 5mg Ointment,Telmisartan 5mg,Ointment,553.88,81,Sharma Medical,True
+Metformin 250mg Ointment,Metformin 250mg,Ointment,370.8,111,Guardian Pharmacy,True
+Rabeprazole 40mg Syrup,Rabeprazole 40mg,Syrup,166.94,57,Wellness Forever,False
+Azithromycin 20mg Ointment,Azithromycin 20mg,Ointment,70.99,190,MedPlus,True
+Ibuprofen 40mg Cream,Ibuprofen 40mg,Cream,441.8,159,Apollo Pharmacy,False
+Azithromycin 200mg Injection,Azithromycin 200mg,Injection,150.46,58,Wellness Forever,True
+Cetirizine 5mg Tablet,Cetirizine 5mg,Tablet,609.91,194,Apollo Pharmacy,False
+Tramadol 5mg Injection,Tramadol 5mg,Injection,265.05,66,Guardian Pharmacy,True
+Levocetirizine 40mg Cream,Levocetirizine 40mg,Cream,309.47,171,Wellness Forever,False
+Cetirizine 20mg Cream,Cetirizine 20mg,Cream,339.18,132,Netmeds,False
+Amoxicillin 20mg Ointment,Amoxicillin 20mg,Ointment,595.34,99,Wellness Forever,True
+Diclofenac 5mg Tablet,Diclofenac 5mg,Tablet,484.92,9,Wellness Forever,True
+Losartan 10mg Drops,Losartan 10mg,Drops,109.24,89,MedPlus,True
+Methylcobalamin 100mg Injection,Methylcobalamin 100mg,Injection,363.31,246,Sharma Medical,False
+Levocetirizine 100mg Cream,Levocetirizine 100mg,Cream,628.63,169,Sharma Medical,False
+Tramadol 650mg Ointment,Tramadol 650mg,Ointment,479.51,95,MedPlus,True
+Metformin 650mg Ointment,Metformin 650mg,Ointment,596.98,143,Sharma Medical,True
+Ibuprofen 500mg Tablet,Ibuprofen 500mg,Tablet,615.03,176,Apollo Pharmacy,False
+Paracetamol 650mg Drops,Paracetamol 650mg,Drops,549.54,64,Apollo Pharmacy,False
+Metformin 5mg Tablet,Metformin 5mg,Tablet,334.66,100,Apollo Pharmacy,True
+Ofloxacin 100mg Ointment,Ofloxacin 100mg,Ointment,22.04,141,Guardian Pharmacy,True
+Diclofenac 250mg Tablet,Diclofenac 250mg,Tablet,349.77,75,Guardian Pharmacy,True
+Cetirizine 200mg Tablet,Cetirizine 200mg,Tablet,530.79,177,Netmeds,False
+Telmisartan 500mg Capsule,Telmisartan 500mg,Capsule,346.56,66,MedPlus,True
+Ofloxacin 20mg Cream,Ofloxacin 20mg,Cream,182.55,106,Apollo Pharmacy,True
+Vitamin D3 100mg Drops,Vitamin D3 100mg,Drops,372.47,183,MedPlus,False
+Cetirizine 250mg Capsule,Cetirizine 250mg,Capsule,71.65,102,Netmeds,False
+Losartan 250mg Ointment,Losartan 250mg,Ointment,418.25,184,MedPlus,True
+Azithromycin 40mg Ointment,Azithromycin 40mg,Ointment,423.45,89,Guardian Pharmacy,True
+Amoxicillin 5mg Tablet,Amoxicillin 5mg,Tablet,146.88,227,Sharma Medical,True
+Cefixime 10mg Ointment,Cefixime 10mg,Ointment,41.71,24,Sharma Medical,True
+Pantoprazole 650mg Tablet,Pantoprazole 650mg,Tablet,604.55,85,Apollo Pharmacy,False
+Amlodipine 40mg Syrup,Amlodipine 40mg,Syrup,604.62,81,MedPlus,True
+Cefixime 40mg Injection,Cefixime 40mg,Injection,443.95,143,Wellness Forever,True
+Methylcobalamin 500mg Syrup,Methylcobalamin 500mg,Syrup,331.51,93,Apollo Pharmacy,False
+Amoxicillin 5mg Drops,Amoxicillin 5mg,Drops,547.07,92,Guardian Pharmacy,True
+Ofloxacin 20mg Drops,Ofloxacin 20mg,Drops,30.9,74,Netmeds,True
+Tramadol 20mg Injection,Tramadol 20mg,Injection,364.84,101,Netmeds,True
+Telmisartan 500mg Drops,Telmisartan 500mg,Drops,504.64,80,MedPlus,True
+Azithromycin 10mg Capsule,Azithromycin 10mg,Capsule,110.39,187,Sharma Medical,True
+Metformin 20mg Drops,Metformin 20mg,Drops,242.13,28,Apollo Pharmacy,True
+Cetirizine 20mg Ointment,Cetirizine 20mg,Ointment,497.74,31,MedPlus,False
+Azithromycin 40mg Syrup,Azithromycin 40mg,Syrup,298.36,147,Guardian Pharmacy,True
+Diclofenac 250mg Capsule,Diclofenac 250mg,Capsule,69.18,146,Apollo Pharmacy,True
+Ofloxacin 40mg Gel,Ofloxacin 40mg,Gel,19.87,110,Netmeds,True
+Azithromycin 200mg Injection,Azithromycin 200mg,Injection,120.19,102,MedPlus,True
+Metformin 10mg Cream,Metformin 10mg,Cream,183.24,42,Apollo Pharmacy,True
+Telmisartan 10mg Drops,Telmisartan 10mg,Drops,280.66,128,Apollo Pharmacy,True
+Vitamin D3 5mg Cream,Vitamin D3 5mg,Cream,471.93,131,Guardian Pharmacy,False
+Ofloxacin 100mg Injection,Ofloxacin 100mg,Injection,80.25,82,Apollo Pharmacy,True
+Methylcobalamin 40mg Gel,Methylcobalamin 40mg,Gel,525.0,89,Netmeds,False
+Levocetirizine 650mg Drops,Levocetirizine 650mg,Drops,203.68,159,Sharma Medical,False
+Amlodipine 20mg Ointment,Amlodipine 20mg,Ointment,125.33,106,Wellness Forever,True
+Cetirizine 5mg Ointment,Cetirizine 5mg,Ointment,219.92,76,Netmeds,False
+Vitamin D3 5mg Capsule,Vitamin D3 5mg,Capsule,389.84,144,MedPlus,False
+Losartan 100mg Tablet,Losartan 100mg,Tablet,613.62,58,Netmeds,True
+Cetirizine 40mg Capsule,Cetirizine 40mg,Capsule,441.36,40,Sharma Medical,False
+Cetirizine 10mg Injection,Cetirizine 10mg,Injection,432.23,188,Netmeds,False
+Methylcobalamin 100mg Capsule,Methylcobalamin 100mg,Capsule,644.07,127,Guardian Pharmacy,False
+Methylcobalamin 200mg Drops,Methylcobalamin 200mg,Drops,35.46,97,Sharma Medical,False
+Losartan 500mg Capsule,Losartan 500mg,Capsule,502.59,173,Sharma Medical,True
+Vitamin D3 250mg Syrup,Vitamin D3 250mg,Syrup,371.33,170,Sharma Medical,False
+Methylcobalamin 40mg Gel,Methylcobalamin 40mg,Gel,79.59,30,Wellness Forever,False
+Atorvastatin 100mg Injection,Atorvastatin 100mg,Injection,250.69,123,Sharma Medical,True
+Cefixime 20mg Syrup,Cefixime 20mg,Syrup,648.53,128,Apollo Pharmacy,True
+Cetirizine 500mg Drops,Cetirizine 500mg,Drops,86.05,245,Sharma Medical,False
+Metformin 10mg Gel,Metformin 10mg,Gel,230.88,205,MedPlus,True
+Rabeprazole 20mg Ointment,Rabeprazole 20mg,Ointment,315.79,117,Sharma Medical,False
+Aceclofenac 500mg Gel,Aceclofenac 500mg,Gel,203.57,212,Sharma Medical,True
+Amoxicillin 20mg Tablet,Amoxicillin 20mg,Tablet,425.4,178,MedPlus,True
+Atorvastatin 200mg Syrup,Atorvastatin 200mg,Syrup,114.17,148,Netmeds,True
+Aceclofenac 40mg Injection,Aceclofenac 40mg,Injection,413.79,52,Sharma Medical,True
+Diclofenac 250mg Drops,Diclofenac 250mg,Drops,482.45,231,MedPlus,True
+Aceclofenac 40mg Drops,Aceclofenac 40mg,Drops,14.84,59,MedPlus,True
+Pantoprazole 500mg Capsule,Pantoprazole 500mg,Capsule,522.08,142,MedPlus,False
+Vitamin D3 5mg Gel,Vitamin D3 5mg,Gel,303.92,72,Sharma Medical,False
+Tramadol 40mg Gel,Tramadol 40mg,Gel,402.01,155,Apollo Pharmacy,True
+Vitamin D3 100mg Gel,Vitamin D3 100mg,Gel,405.88,213,Sharma Medical,False
+Cetirizine 650mg Capsule,Cetirizine 650mg,Capsule,211.81,66,Wellness Forever,False
+Amoxicillin 20mg Syrup,Amoxicillin 20mg,Syrup,454.41,135,Netmeds,True
+Diclofenac 40mg Syrup,Diclofenac 40mg,Syrup,281.9,129,Sharma Medical,True
+Losartan 200mg Syrup,Losartan 200mg,Syrup,118.46,78,MedPlus,True
+Telmisartan 100mg Gel,Telmisartan 100mg,Gel,407.18,226,Wellness Forever,True
+Paracetamol 650mg Ointment,Paracetamol 650mg,Ointment,136.49,103,Guardian Pharmacy,False
+Rabeprazole 40mg Ointment,Rabeprazole 40mg,Ointment,448.84,111,Sharma Medical,False
+Aceclofenac 650mg Ointment,Aceclofenac 650mg,Ointment,64.74,12,MedPlus,True
+Cetirizine 10mg Tablet,Cetirizine 10mg,Tablet,155.45,78,MedPlus,False
+Aceclofenac 200mg Ointment,Aceclofenac 200mg,Ointment,337.89,151,Apollo Pharmacy,True
+Pantoprazole 200mg Gel,Pantoprazole 200mg,Gel,536.83,15,Sharma Medical,False
+Aceclofenac 40mg Injection,Aceclofenac 40mg,Injection,77.34,217,Sharma Medical,True
+Atorvastatin 250mg Cream,Atorvastatin 250mg,Cream,298.93,94,Apollo Pharmacy,True
+Aceclofenac 5mg Capsule,Aceclofenac 5mg,Capsule,145.9,193,Guardian Pharmacy,True
+Vitamin D3 650mg Drops,Vitamin D3 650mg,Drops,405.1,205,MedPlus,False
+Amlodipine 20mg Tablet,Amlodipine 20mg,Tablet,351.6,157,Guardian Pharmacy,True
+Telmisartan 10mg Gel,Telmisartan 10mg,Gel,196.59,73,Guardian Pharmacy,True
+Amoxicillin 40mg Syrup,Amoxicillin 40mg,Syrup,598.17,75,Sharma Medical,True
+Metformin 5mg Syrup,Metformin 5mg,Syrup,105.3,87,MedPlus,True
+Methylcobalamin 650mg Ointment,Methylcobalamin 650mg,Ointment,380.4,73,Sharma Medical,False
+Diclofenac 100mg Drops,Diclofenac 100mg,Drops,60.18,208,Apollo Pharmacy,True
+Methylcobalamin 20mg Cream,Methylcobalamin 20mg,Cream,302.1,129,Wellness Forever,False
+Cefixime 500mg Tablet,Cefixime 500mg,Tablet,478.33,122,Sharma Medical,True
+Vitamin D3 200mg Capsule,Vitamin D3 200mg,Capsule,265.74,114,MedPlus,False
+Tramadol 20mg Cream,Tramadol 20mg,Cream,540.48,91,Guardian Pharmacy,True
+Cefixime 100mg Syrup,Cefixime 100mg,Syrup,514.94,233,Sharma Medical,True
+Ibuprofen 500mg Tablet,Ibuprofen 500mg,Tablet,411.5,219,Netmeds,False
+Paracetamol 650mg Capsule,Paracetamol 650mg,Capsule,293.54,5,Netmeds,False
+Amlodipine 10mg Syrup,Amlodipine 10mg,Syrup,113.43,243,Wellness Forever,True
+Azithromycin 10mg Gel,Azithromycin 10mg,Gel,64.58,175,Sharma Medical,True
+Telmisartan 40mg Tablet,Telmisartan 40mg,Tablet,411.14,190,Sharma Medical,True
+Atorvastatin 500mg Drops,Atorvastatin 500mg,Drops,460.96,5,MedPlus,True
+Tramadol 650mg Capsule,Tramadol 650mg,Capsule,390.77,137,Sharma Medical,True
+Aceclofenac 250mg Tablet,Aceclofenac 250mg,Tablet,455.79,214,Apollo Pharmacy,True
+Diclofenac 100mg Syrup,Diclofenac 100mg,Syrup,57.19,103,Apollo Pharmacy,True
+Amoxicillin 20mg Capsule,Amoxicillin 20mg,Capsule,246.5,81,MedPlus,True
+Methylcobalamin 650mg Syrup,Methylcobalamin 650mg,Syrup,55.65,149,Apollo Pharmacy,False
+Ofloxacin 100mg Syrup,Ofloxacin 100mg,Syrup,236.06,59,Sharma Medical,True
+Metformin 100mg Drops,Metformin 100mg,Drops,560.66,27,Apollo Pharmacy,True
+Metformin 40mg Capsule,Metformin 40mg,Capsule,236.28,114,Wellness Forever,True
+Metformin 10mg Injection,Metformin 10mg,Injection,423.27,68,Guardian Pharmacy,True
+Ofloxacin 250mg Cream,Ofloxacin 250mg,Cream,552.96,173,Wellness Forever,True
+Amlodipine 40mg Injection,Amlodipine 40mg,Injection,200.56,18,MedPlus,True
+Tramadol 500mg Drops,Tramadol 500mg,Drops,165.81,168,Guardian Pharmacy,True
+Azithromycin 20mg Tablet,Azithromycin 20mg,Tablet,607.84,38,Netmeds,True
+Cefixime 20mg Drops,Cefixime 20mg,Drops,360.58,49,Netmeds,True
+Azithromycin 500mg Tablet,Azithromycin 500mg,Tablet,20.8,60,Apollo Pharmacy,True
+Ibuprofen 200mg Drops,Ibuprofen 200mg,Drops,194.78,187,Guardian Pharmacy,False
+Diclofenac 40mg Drops,Diclofenac 40mg,Drops,64.59,142,Guardian Pharmacy,True
+Ofloxacin 10mg Syrup,Ofloxacin 10mg,Syrup,65.33,25,Guardian Pharmacy,True
+Amlodipine 200mg Syrup,Amlodipine 200mg,Syrup,220.47,155,Sharma Medical,True
+Azithromycin 40mg Cream,Azithromycin 40mg,Cream,477.71,221,MedPlus,True
+Ibuprofen 500mg Injection,Ibuprofen 500mg,Injection,601.91,34,Netmeds,False
+Ofloxacin 10mg Tablet,Ofloxacin 10mg,Tablet,436.96,173,Sharma Medical,True
+Telmisartan 250mg Capsule,Telmisartan 250mg,Capsule,463.64,184,Apollo Pharmacy,True
+Telmisartan 20mg Ointment,Telmisartan 20mg,Ointment,345.68,205,Sharma Medical,True
+Pantoprazole 20mg Syrup,Pantoprazole 20mg,Syrup,92.98,204,Wellness Forever,False
+Amoxicillin 20mg Tablet,Amoxicillin 20mg,Tablet,526.93,74,Guardian Pharmacy,True
+Azithromycin 500mg Cream,Azithromycin 500mg,Cream,328.54,135,Wellness Forever,True
+Ibuprofen 650mg Ointment,Ibuprofen 650mg,Ointment,246.58,70,Apollo Pharmacy,False
+Cefixime 5mg Capsule,Cefixime 5mg,Capsule,484.62,5,Apollo Pharmacy,True
+Paracetamol 250mg Injection,Paracetamol 250mg,Injection,312.99,103,MedPlus,False
+Telmisartan 200mg Tablet,Telmisartan 200mg,Tablet,524.39,187,Sharma Medical,True
+Diclofenac 20mg Injection,Diclofenac 20mg,Injection,170.39,239,Sharma Medical,True
+Levocetirizine 500mg Cream,Levocetirizine 500mg,Cream,376.64,35,Guardian Pharmacy,False
+Ibuprofen 5mg Syrup,Ibuprofen 5mg,Syrup,525.17,16,Netmeds,False
+Azithromycin 10mg Ointment,Azithromycin 10mg,Ointment,505.51,84,Wellness Forever,True
+Azithromycin 250mg Ointment,Azithromycin 250mg,Ointment,247.37,79,Guardian Pharmacy,True
+Cetirizine 100mg Injection,Cetirizine 100mg,Injection,246.96,131,MedPlus,False
+Losartan 650mg Injection,Losartan 650mg,Injection,16.07,109,Apollo Pharmacy,True
+Atorvastatin 250mg Gel,Atorvastatin 250mg,Gel,618.73,5,Sharma Medical,True
+Methylcobalamin 500mg Cream,Methylcobalamin 500mg,Cream,142.91,65,Netmeds,False
+Tramadol 650mg Tablet,Tramadol 650mg,Tablet,466.03,28,Apollo Pharmacy,True
+Atorvastatin 20mg Drops,Atorvastatin 20mg,Drops,304.5,196,Apollo Pharmacy,True
+Cefixime 200mg Capsule,Cefixime 200mg,Capsule,97.18,214,Netmeds,True
+Azithromycin 40mg Tablet,Azithromycin 40mg,Tablet,434.64,38,MedPlus,True
+Cetirizine 20mg Cream,Cetirizine 20mg,Cream,602.81,105,Sharma Medical,False
+Levocetirizine 100mg Gel,Levocetirizine 100mg,Gel,185.51,24,MedPlus,False
+Metformin 650mg Capsule,Metformin 650mg,Capsule,79.41,120,Netmeds,True
+Levocetirizine 500mg Drops,Levocetirizine 500mg,Drops,353.92,202,MedPlus,False
+Aceclofenac 100mg Cream,Aceclofenac 100mg,Cream,181.08,35,Apollo Pharmacy,True
+Telmisartan 250mg Cream,Telmisartan 250mg,Cream,149.18,224,Wellness Forever,True
+Metformin 5mg Capsule,Metformin 5mg,Capsule,629.84,106,Guardian Pharmacy,True
+Ibuprofen 10mg Cream,Ibuprofen 10mg,Cream,535.22,49,Apollo Pharmacy,False
+Methylcobalamin 200mg Ointment,Methylcobalamin 200mg,Ointment,489.27,68,Apollo Pharmacy,False
+Aceclofenac 650mg Capsule,Aceclofenac 650mg,Capsule,89.49,20,MedPlus,True
+Metformin 40mg Injection,Metformin 40mg,Injection,249.49,166,Sharma Medical,True
+Azithromycin 500mg Cream,Azithromycin 500mg,Cream,25.91,21,MedPlus,True
+Aceclofenac 500mg Syrup,Aceclofenac 500mg,Syrup,589.44,217,Wellness Forever,True
+Amoxicillin 100mg Tablet,Amoxicillin 100mg,Tablet,44.31,241,Guardian Pharmacy,True
+Diclofenac 100mg Drops,Diclofenac 100mg,Drops,30.81,179,Netmeds,True
+Telmisartan 5mg Gel,Telmisartan 5mg,Gel,591.5,75,Wellness Forever,True
+Aceclofenac 250mg Syrup,Aceclofenac 250mg,Syrup,403.8,162,MedPlus,True
+Cetirizine 40mg Ointment,Cetirizine 40mg,Ointment,575.21,127,Apollo Pharmacy,False
+Azithromycin 40mg Cream,Azithromycin 40mg,Cream,99.56,56,Sharma Medical,True
+Rabeprazole 200mg Injection,Rabeprazole 200mg,Injection,519.11,102,Sharma Medical,False
+Vitamin D3 200mg Ointment,Vitamin D3 200mg,Ointment,510.56,93,Guardian Pharmacy,False
+Rabeprazole 40mg Gel,Rabeprazole 40mg,Gel,184.54,11,Wellness Forever,False
+Ofloxacin 250mg Injection,Ofloxacin 250mg,Injection,583.5,204,Wellness Forever,True
+Ibuprofen 200mg Ointment,Ibuprofen 200mg,Ointment,240.04,154,MedPlus,False
+Telmisartan 5mg Capsule,Telmisartan 5mg,Capsule,431.08,73,Guardian Pharmacy,True
+Ibuprofen 40mg Injection,Ibuprofen 40mg,Injection,238.37,219,MedPlus,False
+Telmisartan 20mg Injection,Telmisartan 20mg,Injection,526.36,183,Wellness Forever,True
+Cefixime 20mg Tablet,Cefixime 20mg,Tablet,616.54,149,MedPlus,True
+Cefixime 100mg Injection,Cefixime 100mg,Injection,357.88,49,Netmeds,True
+Ibuprofen 250mg Capsule,Ibuprofen 250mg,Capsule,160.41,61,Apollo Pharmacy,False
+Rabeprazole 250mg Ointment,Rabeprazole 250mg,Ointment,223.65,162,MedPlus,False
+Metformin 650mg Gel,Metformin 650mg,Gel,598.18,221,Wellness Forever,True
+Ibuprofen 650mg Tablet,Ibuprofen 650mg,Tablet,386.26,239,MedPlus,False
+Amoxicillin 500mg Gel,Amoxicillin 500mg,Gel,250.35,246,Sharma Medical,True
+Methylcobalamin 20mg Capsule,Methylcobalamin 20mg,Capsule,204.53,39,MedPlus,False
+Diclofenac 20mg Ointment,Diclofenac 20mg,Ointment,123.14,148,Sharma Medical,True
+Ofloxacin 5mg Gel,Ofloxacin 5mg,Gel,436.61,213,MedPlus,True
+Methylcobalamin 10mg Cream,Methylcobalamin 10mg,Cream,93.25,191,Apollo Pharmacy,False
+Cefixime 250mg Drops,Cefixime 250mg,Drops,128.17,86,Guardian Pharmacy,True
+Atorvastatin 100mg Capsule,Atorvastatin 100mg,Capsule,101.73,195,Apollo Pharmacy,True
+Atorvastatin 20mg Gel,Atorvastatin 20mg,Gel,119.11,231,Apollo Pharmacy,True
+Levocetirizine 250mg Ointment,Levocetirizine 250mg,Ointment,181.21,68,Sharma Medical,False
+Azithromycin 10mg Gel,Azithromycin 10mg,Gel,514.12,189,Apollo Pharmacy,True
+Ibuprofen 100mg Drops,Ibuprofen 100mg,Drops,479.39,47,Netmeds,False
+Tramadol 20mg Drops,Tramadol 20mg,Drops,360.36,30,Netmeds,True
+Cefixime 650mg Injection,Cefixime 650mg,Injection,299.92,209,Apollo Pharmacy,True
+Cetirizine 20mg Tablet,Cetirizine 20mg,Tablet,178.6,31,Apollo Pharmacy,False
+Levocetirizine 40mg Syrup,Levocetirizine 40mg,Syrup,114.66,24,Guardian Pharmacy,False
+Azithromycin 100mg Gel,Azithromycin 100mg,Gel,461.47,115,Sharma Medical,True
+Telmisartan 650mg Drops,Telmisartan 650mg,Drops,46.17,89,MedPlus,True
+Amlodipine 200mg Drops,Amlodipine 200mg,Drops,472.66,191,Guardian Pharmacy,True
+Pantoprazole 10mg Cream,Pantoprazole 10mg,Cream,163.56,17,Netmeds,False
+Cefixime 650mg Ointment,Cefixime 650mg,Ointment,46.77,5,Netmeds,True
+Azithromycin 100mg Cream,Azithromycin 100mg,Cream,139.39,11,MedPlus,True
+Telmisartan 500mg Cream,Telmisartan 500mg,Cream,314.14,34,Wellness Forever,True
+Methylcobalamin 100mg Ointment,Methylcobalamin 100mg,Ointment,582.93,72,Apollo Pharmacy,False
+Losartan 650mg Drops,Losartan 650mg,Drops,248.71,102,Wellness Forever,True
+Telmisartan 250mg Ointment,Telmisartan 250mg,Ointment,179.98,124,Wellness Forever,True
+Atorvastatin 250mg Cream,Atorvastatin 250mg,Cream,108.42,183,Sharma Medical,True
+Amoxicillin 20mg Capsule,Amoxicillin 20mg,Capsule,527.62,110,Guardian Pharmacy,True
+Atorvastatin 40mg Tablet,Atorvastatin 40mg,Tablet,534.14,112,Guardian Pharmacy,True
+Tramadol 100mg Injection,Tramadol 100mg,Injection,202.67,106,Sharma Medical,True
+Ibuprofen 500mg Syrup,Ibuprofen 500mg,Syrup,617.62,119,MedPlus,False
+Telmisartan 5mg Injection,Telmisartan 5mg,Injection,92.51,113,Apollo Pharmacy,True
+Diclofenac 650mg Injection,Diclofenac 650mg,Injection,544.16,71,Wellness Forever,True
+Azithromycin 40mg Capsule,Azithromycin 40mg,Capsule,366.96,146,Wellness Forever,True
+Pantoprazole 250mg Ointment,Pantoprazole 250mg,Ointment,513.82,164,Guardian Pharmacy,False
+Rabeprazole 500mg Drops,Rabeprazole 500mg,Drops,276.41,42,Guardian Pharmacy,False
+Cefixime 500mg Capsule,Cefixime 500mg,Capsule,370.99,30,Wellness Forever,True
+Losartan 40mg Gel,Losartan 40mg,Gel,180.52,172,Netmeds,True
+Cefixime 250mg Ointment,Cefixime 250mg,Ointment,121.86,108,MedPlus,True
+Ofloxacin 250mg Drops,Ofloxacin 250mg,Drops,264.52,230,Wellness Forever,True
+Atorvastatin 100mg Tablet,Atorvastatin 100mg,Tablet,599.49,234,Wellness Forever,True
+Paracetamol 10mg Gel,Paracetamol 10mg,Gel,210.39,220,Netmeds,False
+Amoxicillin 650mg Injection,Amoxicillin 650mg,Injection,203.71,195,Netmeds,True
+Levocetirizine 40mg Cream,Levocetirizine 40mg,Cream,397.98,27,MedPlus,False
+Aceclofenac 40mg Injection,Aceclofenac 40mg,Injection,484.72,199,Guardian Pharmacy,True
+Vitamin D3 200mg Tablet,Vitamin D3 200mg,Tablet,516.97,21,Wellness Forever,False
+Rabeprazole 650mg Drops,Rabeprazole 650mg,Drops,509.97,139,Guardian Pharmacy,False
+Paracetamol 5mg Syrup,Paracetamol 5mg,Syrup,570.37,56,Apollo Pharmacy,False
+Atorvastatin 100mg Tablet,Atorvastatin 100mg,Tablet,44.26,97,Sharma Medical,True
+Amlodipine 20mg Cream,Amlodipine 20mg,Cream,537.4,134,Netmeds,True
+Amoxicillin 5mg Tablet,Amoxicillin 5mg,Tablet,249.63,157,Netmeds,True
+Telmisartan 200mg Ointment,Telmisartan 200mg,Ointment,235.15,46,Wellness Forever,True
+Azithromycin 250mg Cream,Azithromycin 250mg,Cream,258.63,46,Guardian Pharmacy,True
+Amlodipine 5mg Injection,Amlodipine 5mg,Injection,444.37,73,Sharma Medical,True
+Diclofenac 250mg Tablet,Diclofenac 250mg,Tablet,314.47,38,Sharma Medical,True
+Telmisartan 5mg Tablet,Telmisartan 5mg,Tablet,173.03,211,Wellness Forever,True
+Pantoprazole 40mg Drops,Pantoprazole 40mg,Drops,555.31,122,Wellness Forever,False
+Amlodipine 10mg Ointment,Amlodipine 10mg,Ointment,444.05,216,Guardian Pharmacy,True
+Methylcobalamin 250mg Capsule,Methylcobalamin 250mg,Capsule,338.35,174,Wellness Forever,False
+Losartan 10mg Cream,Losartan 10mg,Cream,448.66,128,Apollo Pharmacy,True
+Levocetirizine 20mg Cream,Levocetirizine 20mg,Cream,561.63,71,Sharma Medical,False
+Cetirizine 650mg Injection,Cetirizine 650mg,Injection,342.03,66,Apollo Pharmacy,False
+Ofloxacin 20mg Drops,Ofloxacin 20mg,Drops,446.32,189,Apollo Pharmacy,True
+Tramadol 10mg Cream,Tramadol 10mg,Cream,590.61,108,Netmeds,True
+Ibuprofen 20mg Injection,Ibuprofen 20mg,Injection,475.54,61,Sharma Medical,False
+Losartan 20mg Ointment,Losartan 20mg,Ointment,335.67,221,MedPlus,True
+Losartan 10mg Syrup,Losartan 10mg,Syrup,74.27,37,Sharma Medical,True
+Pantoprazole 20mg Syrup,Pantoprazole 20mg,Syrup,429.53,61,Wellness Forever,False
+Atorvastatin 40mg Cream,Atorvastatin 40mg,Cream,514.8,89,Wellness Forever,True
+Pantoprazole 100mg Cream,Pantoprazole 100mg,Cream,555.07,125,Apollo Pharmacy,False
+Cefixime 100mg Capsule,Cefixime 100mg,Capsule,579.45,133,Apollo Pharmacy,True
+Methylcobalamin 40mg Cream,Methylcobalamin 40mg,Cream,46.49,223,MedPlus,False
+Metformin 20mg Injection,Metformin 20mg,Injection,273.06,150,Netmeds,True
+Metformin 650mg Gel,Metformin 650mg,Gel,508.96,129,Wellness Forever,True
+Telmisartan 250mg Gel,Telmisartan 250mg,Gel,15.01,75,MedPlus,True
+Telmisartan 100mg Syrup,Telmisartan 100mg,Syrup,512.96,204,Apollo Pharmacy,True
+Metformin 40mg Drops,Metformin 40mg,Drops,269.37,127,Netmeds,True
+Paracetamol 200mg Tablet,Paracetamol 200mg,Tablet,139.23,100,Apollo Pharmacy,False
+Levocetirizine 250mg Injection,Levocetirizine 250mg,Injection,443.77,165,Sharma Medical,False
+Atorvastatin 20mg Injection,Atorvastatin 20mg,Injection,211.11,31,Netmeds,True
+Rabeprazole 650mg Cream,Rabeprazole 650mg,Cream,53.65,16,Wellness Forever,False
+Cetirizine 200mg Ointment,Cetirizine 200mg,Ointment,392.48,91,Netmeds,False
+Metformin 100mg Gel,Metformin 100mg,Gel,241.2,53,MedPlus,True
+Methylcobalamin 5mg Tablet,Methylcobalamin 5mg,Tablet,155.12,38,MedPlus,False
+Paracetamol 500mg Syrup,Paracetamol 500mg,Syrup,245.89,171,Apollo Pharmacy,False
+Methylcobalamin 200mg Cream,Methylcobalamin 200mg,Cream,409.56,157,Apollo Pharmacy,False
+Amoxicillin 250mg Tablet,Amoxicillin 250mg,Tablet,452.06,111,Netmeds,True
+Methylcobalamin 200mg Capsule,Methylcobalamin 200mg,Capsule,173.25,184,MedPlus,False
+Amlodipine 10mg Tablet,Amlodipine 10mg,Tablet,280.52,30,Sharma Medical,True
+Rabeprazole 650mg Cream,Rabeprazole 650mg,Cream,279.21,235,Apollo Pharmacy,False
+Rabeprazole 10mg Capsule,Rabeprazole 10mg,Capsule,84.74,32,Netmeds,False
+Amlodipine 10mg Injection,Amlodipine 10mg,Injection,542.5,56,Wellness Forever,True
+Diclofenac 650mg Cream,Diclofenac 650mg,Cream,37.14,132,MedPlus,True
+Tramadol 5mg Gel,Tramadol 5mg,Gel,13.75,176,Apollo Pharmacy,True
+Amoxicillin 650mg Ointment,Amoxicillin 650mg,Ointment,617.75,204,Guardian Pharmacy,True
+Azithromycin 10mg Capsule,Azithromycin 10mg,Capsule,423.09,121,Wellness Forever,True
+Pantoprazole 250mg Ointment,Pantoprazole 250mg,Ointment,75.68,49,Apollo Pharmacy,False
+Cetirizine 20mg Gel,Cetirizine 20mg,Gel,283.78,34,Apollo Pharmacy,False
+Ibuprofen 650mg Tablet,Ibuprofen 650mg,Tablet,435.22,48,Wellness Forever,False
+Vitamin D3 10mg Ointment,Vitamin D3 10mg,Ointment,572.47,28,Wellness Forever,False
+Levocetirizine 500mg Syrup,Levocetirizine 500mg,Syrup,267.7,121,Wellness Forever,False
+Methylcobalamin 40mg Ointment,Methylcobalamin 40mg,Ointment,425.96,209,MedPlus,False
+Amoxicillin 250mg Syrup,Amoxicillin 250mg,Syrup,638.24,221,MedPlus,True
+Amoxicillin 100mg Drops,Amoxicillin 100mg,Drops,523.84,178,Netmeds,True
+Telmisartan 20mg Drops,Telmisartan 20mg,Drops,402.05,225,Sharma Medical,True
+Metformin 100mg Ointment,Metformin 100mg,Ointment,84.05,110,Netmeds,True
+Ibuprofen 10mg Capsule,Ibuprofen 10mg,Capsule,429.87,8,Sharma Medical,False
+Rabeprazole 20mg Injection,Rabeprazole 20mg,Injection,343.19,181,Sharma Medical,False
+Ofloxacin 40mg Capsule,Ofloxacin 40mg,Capsule,434.17,68,Netmeds,True
+Vitamin D3 650mg Drops,Vitamin D3 650mg,Drops,547.3,147,Guardian Pharmacy,False
+Ibuprofen 650mg Tablet,Ibuprofen 650mg,Tablet,334.55,125,Netmeds,False
+Telmisartan 100mg Capsule,Telmisartan 100mg,Capsule,216.56,89,Wellness Forever,True
+Ibuprofen 200mg Injection,Ibuprofen 200mg,Injection,422.44,108,MedPlus,False
+Azithromycin 100mg Ointment,Azithromycin 100mg,Ointment,523.2,119,Apollo Pharmacy,True
+Tramadol 20mg Ointment,Tramadol 20mg,Ointment,87.73,132,Sharma Medical,True
+Paracetamol 40mg Capsule,Paracetamol 40mg,Capsule,275.07,147,Guardian Pharmacy,False
+Paracetamol 10mg Capsule,Paracetamol 10mg,Capsule,579.89,148,MedPlus,False
+Aceclofenac 20mg Gel,Aceclofenac 20mg,Gel,538.55,214,MedPlus,True
+Aceclofenac 200mg Gel,Aceclofenac 200mg,Gel,501.61,158,Netmeds,True
+Vitamin D3 500mg Ointment,Vitamin D3 500mg,Ointment,74.16,173,MedPlus,False
+Paracetamol 20mg Gel,Paracetamol 20mg,Gel,541.47,209,Wellness Forever,False
+Losartan 500mg Gel,Losartan 500mg,Gel,41.21,47,Netmeds,True
+Metformin 500mg Drops,Metformin 500mg,Drops,174.24,55,MedPlus,True
+Amoxicillin 5mg Drops,Amoxicillin 5mg,Drops,303.6,205,MedPlus,True
+Levocetirizine 40mg Capsule,Levocetirizine 40mg,Capsule,41.67,167,Sharma Medical,False
+Cefixime 100mg Capsule,Cefixime 100mg,Capsule,303.81,155,Guardian Pharmacy,True
+Metformin 250mg Ointment,Metformin 250mg,Ointment,350.37,17,Guardian Pharmacy,True
+Diclofenac 200mg Ointment,Diclofenac 200mg,Ointment,510.33,238,MedPlus,True
+Cefixime 650mg Syrup,Cefixime 650mg,Syrup,78.07,173,Guardian Pharmacy,True
+Ofloxacin 200mg Gel,Ofloxacin 200mg,Gel,574.33,112,Guardian Pharmacy,True
+Atorvastatin 40mg Cream,Atorvastatin 40mg,Cream,626.77,80,Netmeds,True
+Metformin 40mg Syrup,Metformin 40mg,Syrup,396.41,231,Sharma Medical,True
+Rabeprazole 200mg Cream,Rabeprazole 200mg,Cream,561.13,187,Sharma Medical,False
+Losartan 5mg Injection,Losartan 5mg,Injection,145.8,187,Wellness Forever,True
+Vitamin D3 650mg Syrup,Vitamin D3 650mg,Syrup,333.48,182,Sharma Medical,False
+Levocetirizine 20mg Capsule,Levocetirizine 20mg,Capsule,370.73,154,Guardian Pharmacy,False
+Diclofenac 40mg Cream,Diclofenac 40mg,Cream,527.7,138,Apollo Pharmacy,True
+Paracetamol 650mg Drops,Paracetamol 650mg,Drops,45.86,19,MedPlus,False
+Pantoprazole 10mg Syrup,Pantoprazole 10mg,Syrup,448.0,42,Apollo Pharmacy,False
+Cetirizine 200mg Injection,Cetirizine 200mg,Injection,32.61,213,Netmeds,False
+Amoxicillin 200mg Injection,Amoxicillin 200mg,Injection,260.11,135,Sharma Medical,True
+Cetirizine 40mg Tablet,Cetirizine 40mg,Tablet,259.26,249,Sharma Medical,False
+Levocetirizine 250mg Tablet,Levocetirizine 250mg,Tablet,486.46,56,Guardian Pharmacy,False
+Aceclofenac 20mg Injection,Aceclofenac 20mg,Injection,493.76,144,Sharma Medical,True
+Ofloxacin 5mg Injection,Ofloxacin 5mg,Injection,199.69,50,Sharma Medical,True
+Azithromycin 650mg Syrup,Azithromycin 650mg,Syrup,480.98,35,Netmeds,True
+Ibuprofen 10mg Drops,Ibuprofen 10mg,Drops,367.11,38,MedPlus,False
+Cefixime 250mg Cream,Cefixime 250mg,Cream,222.9,186,MedPlus,True
+Ibuprofen 20mg Syrup,Ibuprofen 20mg,Syrup,392.81,203,Sharma Medical,False
+Ofloxacin 100mg Cream,Ofloxacin 100mg,Cream,515.96,145,Wellness Forever,True
+Azithromycin 200mg Gel,Azithromycin 200mg,Gel,152.34,52,Guardian Pharmacy,True
+Azithromycin 40mg Syrup,Azithromycin 40mg,Syrup,358.49,108,Apollo Pharmacy,True
+Vitamin D3 5mg Injection,Vitamin D3 5mg,Injection,435.21,89,Wellness Forever,False
+Cetirizine 200mg Injection,Cetirizine 200mg,Injection,314.96,148,Sharma Medical,False
+Paracetamol 20mg Capsule,Paracetamol 20mg,Capsule,296.34,236,Sharma Medical,False
+Ofloxacin 250mg Injection,Ofloxacin 250mg,Injection,447.47,87,Netmeds,True
+Amoxicillin 10mg Drops,Amoxicillin 10mg,Drops,356.67,77,Apollo Pharmacy,True
+Rabeprazole 200mg Gel,Rabeprazole 200mg,Gel,524.2,119,Netmeds,False
+Ibuprofen 5mg Cream,Ibuprofen 5mg,Cream,216.36,26,Apollo Pharmacy,False
+Telmisartan 500mg Tablet,Telmisartan 500mg,Tablet,146.48,166,MedPlus,True
+Diclofenac 5mg Capsule,Diclofenac 5mg,Capsule,355.09,184,Sharma Medical,True
+Diclofenac 650mg Capsule,Diclofenac 650mg,Capsule,27.15,188,Wellness Forever,True
+Ibuprofen 500mg Capsule,Ibuprofen 500mg,Capsule,46.62,208,Wellness Forever,False
+Losartan 5mg Capsule,Losartan 5mg,Capsule,593.21,109,Netmeds,True
+Aceclofenac 40mg Drops,Aceclofenac 40mg,Drops,213.87,104,Sharma Medical,True
+Amoxicillin 500mg Tablet,Amoxicillin 500mg,Tablet,494.3,154,Apollo Pharmacy,True
+Azithromycin 200mg Gel,Azithromycin 200mg,Gel,79.71,206,Sharma Medical,True
+Cetirizine 10mg Capsule,Cetirizine 10mg,Capsule,500.24,117,Netmeds,False
+Methylcobalamin 100mg Tablet,Methylcobalamin 100mg,Tablet,111.73,61,MedPlus,False
+Methylcobalamin 650mg Cream,Methylcobalamin 650mg,Cream,202.16,232,Sharma Medical,False
+Vitamin D3 200mg Tablet,Vitamin D3 200mg,Tablet,570.1,41,Apollo Pharmacy,False
+Ibuprofen 40mg Tablet,Ibuprofen 40mg,Tablet,354.7,247,Apollo Pharmacy,False
+Cetirizine 20mg Injection,Cetirizine 20mg,Injection,147.09,236,Sharma Medical,False
+Rabeprazole 650mg Syrup,Rabeprazole 650mg,Syrup,129.39,162,Wellness Forever,False
+Amlodipine 650mg Capsule,Amlodipine 650mg,Capsule,440.08,150,Apollo Pharmacy,True
+Losartan 200mg Ointment,Losartan 200mg,Ointment,58.67,176,Apollo Pharmacy,True
+Pantoprazole 5mg Capsule,Pantoprazole 5mg,Capsule,474.93,129,Wellness Forever,False
+Vitamin D3 5mg Syrup,Vitamin D3 5mg,Syrup,75.83,163,Apollo Pharmacy,False
+Amlodipine 100mg Gel,Amlodipine 100mg,Gel,299.51,162,Sharma Medical,True
+Cetirizine 20mg Syrup,Cetirizine 20mg,Syrup,527.31,250,Netmeds,False
+Telmisartan 20mg Tablet,Telmisartan 20mg,Tablet,169.06,61,Sharma Medical,True
+Diclofenac 20mg Cream,Diclofenac 20mg,Cream,97.69,192,Wellness Forever,True
+Tramadol 100mg Ointment,Tramadol 100mg,Ointment,240.88,83,Netmeds,True
+Losartan 650mg Capsule,Losartan 650mg,Capsule,423.86,25,Wellness Forever,True
+Metformin 10mg Injection,Metformin 10mg,Injection,480.0,165,Apollo Pharmacy,True
+Azithromycin 200mg Tablet,Azithromycin 200mg,Tablet,414.98,213,Guardian Pharmacy,True
+Cefixime 5mg Drops,Cefixime 5mg,Drops,590.22,146,Wellness Forever,True
+Losartan 650mg Ointment,Losartan 650mg,Ointment,245.39,62,Guardian Pharmacy,True
+Cetirizine 100mg Syrup,Cetirizine 100mg,Syrup,331.72,28,Netmeds,False
+Vitamin D3 5mg Tablet,Vitamin D3 5mg,Tablet,553.01,211,Guardian Pharmacy,False
+Telmisartan 100mg Syrup,Telmisartan 100mg,Syrup,113.58,149,Guardian Pharmacy,True
+Metformin 20mg Ointment,Metformin 20mg,Ointment,37.79,199,Netmeds,True
+Atorvastatin 10mg Capsule,Atorvastatin 10mg,Capsule,247.7,15,Sharma Medical,True
+Amlodipine 40mg Gel,Amlodipine 40mg,Gel,311.65,121,Apollo Pharmacy,True
+Ibuprofen 500mg Gel,Ibuprofen 500mg,Gel,460.98,138,Sharma Medical,False
+Pantoprazole 200mg Cream,Pantoprazole 200mg,Cream,375.76,101,Sharma Medical,False
+Methylcobalamin 500mg Gel,Methylcobalamin 500mg,Gel,341.63,101,MedPlus,False
+Rabeprazole 20mg Drops,Rabeprazole 20mg,Drops,533.4,93,Netmeds,False
+Tramadol 200mg Tablet,Tramadol 200mg,Tablet,574.74,117,MedPlus,True
+Atorvastatin 200mg Capsule,Atorvastatin 200mg,Capsule,422.54,59,MedPlus,True
+Telmisartan 20mg Syrup,Telmisartan 20mg,Syrup,396.09,214,Apollo Pharmacy,True
+Atorvastatin 20mg Drops,Atorvastatin 20mg,Drops,471.52,128,Sharma Medical,True
+Tramadol 5mg Ointment,Tramadol 5mg,Ointment,388.92,170,Netmeds,True
+Paracetamol 250mg Injection,Paracetamol 250mg,Injection,93.59,156,MedPlus,False
+Metformin 650mg Tablet,Metformin 650mg,Tablet,47.67,71,MedPlus,True
+Rabeprazole 250mg Drops,Rabeprazole 250mg,Drops,572.49,191,Sharma Medical,False
+Cetirizine 5mg Capsule,Cetirizine 5mg,Capsule,298.59,125,Netmeds,False
+Telmisartan 40mg Injection,Telmisartan 40mg,Injection,395.34,208,Guardian Pharmacy,True
+Telmisartan 650mg Cream,Telmisartan 650mg,Cream,474.03,92,Netmeds,True
+Ofloxacin 5mg Capsule,Ofloxacin 5mg,Capsule,253.3,38,Apollo Pharmacy,True
+Paracetamol 200mg Injection,Paracetamol 200mg,Injection,560.42,134,Sharma Medical,False
+Diclofenac 500mg Syrup,Diclofenac 500mg,Syrup,125.2,235,Guardian Pharmacy,True
+Ofloxacin 200mg Tablet,Ofloxacin 200mg,Tablet,333.12,35,Apollo Pharmacy,True
+Tramadol 200mg Syrup,Tramadol 200mg,Syrup,539.96,234,Sharma Medical,True
+Diclofenac 20mg Drops,Diclofenac 20mg,Drops,570.14,183,Guardian Pharmacy,True
+Diclofenac 100mg Injection,Diclofenac 100mg,Injection,515.74,102,Wellness Forever,True
+Cefixime 40mg Capsule,Cefixime 40mg,Capsule,97.42,127,MedPlus,True
+Azithromycin 200mg Cream,Azithromycin 200mg,Cream,272.72,53,Apollo Pharmacy,True
+Paracetamol 200mg Capsule,Paracetamol 200mg,Capsule,16.59,172,MedPlus,False
+Levocetirizine 20mg Drops,Levocetirizine 20mg,Drops,80.0,114,Sharma Medical,False
+Cefixime 10mg Cream,Cefixime 10mg,Cream,557.48,113,Guardian Pharmacy,True
+Vitamin D3 40mg Cream,Vitamin D3 40mg,Cream,493.67,110,Guardian Pharmacy,False
+Losartan 650mg Ointment,Losartan 650mg,Ointment,248.2,147,Netmeds,True
+Pantoprazole 20mg Cream,Pantoprazole 20mg,Cream,505.94,106,Sharma Medical,False
+Metformin 5mg Capsule,Metformin 5mg,Capsule,296.93,184,MedPlus,True
+Amoxicillin 200mg Injection,Amoxicillin 200mg,Injection,267.56,91,Guardian Pharmacy,True
+Ofloxacin 650mg Tablet,Ofloxacin 650mg,Tablet,260.25,167,Apollo Pharmacy,True
+Azithromycin 100mg Syrup,Azithromycin 100mg,Syrup,602.7,116,Apollo Pharmacy,True
+Azithromycin 5mg Cream,Azithromycin 5mg,Cream,248.59,160,Apollo Pharmacy,True
+Methylcobalamin 200mg Drops,Methylcobalamin 200mg,Drops,194.77,157,Apollo Pharmacy,False
+Telmisartan 100mg Ointment,Telmisartan 100mg,Ointment,18.83,222,Sharma Medical,True
+Rabeprazole 5mg Cream,Rabeprazole 5mg,Cream,33.44,158,Guardian Pharmacy,False
+Rabeprazole 650mg Injection,Rabeprazole 650mg,Injection,442.03,97,MedPlus,False
+Paracetamol 500mg Syrup,Paracetamol 500mg,Syrup,647.97,204,Netmeds,False
+Vitamin D3 40mg Drops,Vitamin D3 40mg,Drops,385.92,137,Apollo Pharmacy,False
+Azithromycin 200mg Capsule,Azithromycin 200mg,Capsule,193.51,217,Guardian Pharmacy,True
+Cefixime 20mg Gel,Cefixime 20mg,Gel,626.58,75,MedPlus,True
+Ofloxacin 100mg Injection,Ofloxacin 100mg,Injection,605.16,152,Apollo Pharmacy,True
+Pantoprazole 40mg Syrup,Pantoprazole 40mg,Syrup,334.98,148,Apollo Pharmacy,False
+Rabeprazole 20mg Cream,Rabeprazole 20mg,Cream,616.2,210,Guardian Pharmacy,False
+Pantoprazole 100mg Cream,Pantoprazole 100mg,Cream,628.34,149,Netmeds,False
+Atorvastatin 100mg Gel,Atorvastatin 100mg,Gel,446.86,234,Guardian Pharmacy,True
+Paracetamol 500mg Ointment,Paracetamol 500mg,Ointment,176.49,102,Sharma Medical,False
+Atorvastatin 20mg Injection,Atorvastatin 20mg,Injection,275.13,95,Guardian Pharmacy,True
+Losartan 10mg Tablet,Losartan 10mg,Tablet,170.39,28,Netmeds,True
+Levocetirizine 200mg Capsule,Levocetirizine 200mg,Capsule,606.23,126,Wellness Forever,False
+Vitamin D3 10mg Injection,Vitamin D3 10mg,Injection,128.62,196,Sharma Medical,False
+Amlodipine 5mg Ointment,Amlodipine 5mg,Ointment,161.84,66,Wellness Forever,True
+Amlodipine 5mg Injection,Amlodipine 5mg,Injection,544.69,219,Guardian Pharmacy,True
+Vitamin D3 500mg Syrup,Vitamin D3 500mg,Syrup,88.48,25,Sharma Medical,False
+Tramadol 200mg Tablet,Tramadol 200mg,Tablet,623.2,222,Netmeds,True
+Vitamin D3 100mg Gel,Vitamin D3 100mg,Gel,585.0,230,Guardian Pharmacy,False
+Pantoprazole 650mg Ointment,Pantoprazole 650mg,Ointment,640.04,239,Guardian Pharmacy,False
+Pantoprazole 5mg Drops,Pantoprazole 5mg,Drops,490.61,37,Apollo Pharmacy,False
+Rabeprazole 100mg Drops,Rabeprazole 100mg,Drops,611.5,13,Guardian Pharmacy,False
+Vitamin D3 650mg Drops,Vitamin D3 650mg,Drops,303.69,35,Sharma Medical,False
+Rabeprazole 20mg Ointment,Rabeprazole 20mg,Ointment,451.72,8,Sharma Medical,False
+Amlodipine 500mg Drops,Amlodipine 500mg,Drops,219.63,161,Wellness Forever,True
+Telmisartan 5mg Cream,Telmisartan 5mg,Cream,183.88,250,Guardian Pharmacy,True
+Levocetirizine 650mg Gel,Levocetirizine 650mg,Gel,330.22,58,Netmeds,False
+Vitamin D3 40mg Gel,Vitamin D3 40mg,Gel,190.4,51,Guardian Pharmacy,False
+Metformin 500mg Injection,Metformin 500mg,Injection,471.88,210,MedPlus,True
+Losartan 40mg Drops,Losartan 40mg,Drops,137.09,209,Sharma Medical,True
+Metformin 250mg Ointment,Metformin 250mg,Ointment,124.68,132,MedPlus,True
+Rabeprazole 100mg Gel,Rabeprazole 100mg,Gel,203.42,148,Guardian Pharmacy,False
+Ibuprofen 500mg Drops,Ibuprofen 500mg,Drops,452.57,20,MedPlus,False
+Pantoprazole 500mg Ointment,Pantoprazole 500mg,Ointment,299.01,90,Wellness Forever,False
+Vitamin D3 200mg Gel,Vitamin D3 200mg,Gel,367.68,212,Wellness Forever,False
+Vitamin D3 40mg Tablet,Vitamin D3 40mg,Tablet,89.35,227,Sharma Medical,False
+Ofloxacin 200mg Injection,Ofloxacin 200mg,Injection,123.36,204,Wellness Forever,True
+Vitamin D3 200mg Gel,Vitamin D3 200mg,Gel,323.02,193,Netmeds,False
+Azithromycin 10mg Drops,Azithromycin 10mg,Drops,307.87,249,MedPlus,True
+Telmisartan 40mg Gel,Telmisartan 40mg,Gel,414.75,151,Netmeds,True
+Azithromycin 650mg Capsule,Azithromycin 650mg,Capsule,231.23,85,Wellness Forever,True
+Cetirizine 40mg Cream,Cetirizine 40mg,Cream,185.06,118,Wellness Forever,False
+Cefixime 40mg Ointment,Cefixime 40mg,Ointment,118.75,223,Apollo Pharmacy,True
+Metformin 10mg Injection,Metformin 10mg,Injection,612.0,184,Sharma Medical,True
+Azithromycin 650mg Injection,Azithromycin 650mg,Injection,265.32,29,Apollo Pharmacy,True
+Tramadol 250mg Tablet,Tramadol 250mg,Tablet,503.86,139,Apollo Pharmacy,True
+Amoxicillin 650mg Cream,Amoxicillin 650mg,Cream,65.79,243,Netmeds,True
+Cetirizine 5mg Injection,Cetirizine 5mg,Injection,482.58,118,Sharma Medical,False
+Metformin 200mg Syrup,Metformin 200mg,Syrup,546.97,12,Apollo Pharmacy,True
+Vitamin D3 100mg Gel,Vitamin D3 100mg,Gel,310.07,227,Guardian Pharmacy,False
+Pantoprazole 650mg Ointment,Pantoprazole 650mg,Ointment,630.57,183,Guardian Pharmacy,False
+Telmisartan 40mg Ointment,Telmisartan 40mg,Ointment,345.97,168,Guardian Pharmacy,True
+Cetirizine 100mg Gel,Cetirizine 100mg,Gel,356.31,211,Apollo Pharmacy,False
+Aceclofenac 20mg Cream,Aceclofenac 20mg,Cream,274.99,44,Wellness Forever,True
+Paracetamol 200mg Tablet,Paracetamol 200mg,Tablet,532.21,222,MedPlus,False
+Vitamin D3 100mg Cream,Vitamin D3 100mg,Cream,353.39,181,Netmeds,False
+Tramadol 250mg Cream,Tramadol 250mg,Cream,500.62,209,Wellness Forever,True
+Ofloxacin 250mg Injection,Ofloxacin 250mg,Injection,361.76,53,Netmeds,True
+Losartan 40mg Drops,Losartan 40mg,Drops,171.43,188,Sharma Medical,True
+Methylcobalamin 5mg Drops,Methylcobalamin 5mg,Drops,179.78,113,Sharma Medical,False
+Atorvastatin 10mg Cream,Atorvastatin 10mg,Cream,425.72,141,Wellness Forever,True
+Diclofenac 500mg Injection,Diclofenac 500mg,Injection,128.38,79,Apollo Pharmacy,True
+Aceclofenac 10mg Ointment,Aceclofenac 10mg,Ointment,458.9,130,MedPlus,True
+Levocetirizine 650mg Tablet,Levocetirizine 650mg,Tablet,43.67,141,Apollo Pharmacy,False
+Telmisartan 10mg Capsule,Telmisartan 10mg,Capsule,183.75,188,Netmeds,True
+Paracetamol 500mg Injection,Paracetamol 500mg,Injection,108.14,131,MedPlus,False
+Levocetirizine 10mg Drops,Levocetirizine 10mg,Drops,513.29,132,Wellness Forever,False
+Aceclofenac 20mg Tablet,Aceclofenac 20mg,Tablet,63.18,197,MedPlus,True
+Ibuprofen 40mg Cream,Ibuprofen 40mg,Cream,57.54,125,MedPlus,False
+Amlodipine 40mg Cream,Amlodipine 40mg,Cream,540.42,36,Sharma Medical,True
+Atorvastatin 100mg Drops,Atorvastatin 100mg,Drops,169.69,13,MedPlus,True
+Aceclofenac 200mg Capsule,Aceclofenac 200mg,Capsule,436.91,58,Netmeds,True
+Methylcobalamin 20mg Cream,Methylcobalamin 20mg,Cream,113.19,191,Apollo Pharmacy,False
+Losartan 10mg Capsule,Losartan 10mg,Capsule,319.02,81,MedPlus,True
+Vitamin D3 5mg Tablet,Vitamin D3 5mg,Tablet,632.95,65,Sharma Medical,False
+Diclofenac 250mg Gel,Diclofenac 250mg,Gel,118.78,75,Guardian Pharmacy,True
+Amoxicillin 5mg Drops,Amoxicillin 5mg,Drops,17.7,15,Guardian Pharmacy,True
+Tramadol 20mg Syrup,Tramadol 20mg,Syrup,503.77,68,MedPlus,True
+Tramadol 20mg Capsule,Tramadol 20mg,Capsule,605.88,199,Sharma Medical,True
+Ibuprofen 20mg Tablet,Ibuprofen 20mg,Tablet,423.24,184,Guardian Pharmacy,False
+Amoxicillin 100mg Syrup,Amoxicillin 100mg,Syrup,160.45,147,Sharma Medical,True
+Vitamin D3 5mg Ointment,Vitamin D3 5mg,Ointment,25.62,101,Wellness Forever,False
+Metformin 250mg Cream,Metformin 250mg,Cream,321.62,117,Guardian Pharmacy,True
+Cetirizine 5mg Ointment,Cetirizine 5mg,Ointment,373.56,144,Wellness Forever,False
+Levocetirizine 10mg Ointment,Levocetirizine 10mg,Ointment,565.57,158,Guardian Pharmacy,False
+Telmisartan 200mg Capsule,Telmisartan 200mg,Capsule,110.91,80,Wellness Forever,True
+Losartan 100mg Gel,Losartan 100mg,Gel,12.46,168,Guardian Pharmacy,True
+Methylcobalamin 250mg Syrup,Methylcobalamin 250mg,Syrup,407.39,98,Guardian Pharmacy,False
+Atorvastatin 500mg Gel,Atorvastatin 500mg,Gel,431.99,142,Netmeds,True
+Amlodipine 200mg Ointment,Amlodipine 200mg,Ointment,110.34,77,Wellness Forever,True
+Diclofenac 500mg Gel,Diclofenac 500mg,Gel,73.41,173,Apollo Pharmacy,True
+Ibuprofen 650mg Syrup,Ibuprofen 650mg,Syrup,569.29,56,Apollo Pharmacy,False
+Tramadol 500mg Injection,Tramadol 500mg,Injection,32.3,169,Netmeds,True
+Tramadol 250mg Cream,Tramadol 250mg,Cream,245.73,160,Sharma Medical,True
+Azithromycin 5mg Tablet,Azithromycin 5mg,Tablet,430.37,242,Apollo Pharmacy,True
+Aceclofenac 20mg Tablet,Aceclofenac 20mg,Tablet,368.02,245,Netmeds,True
+Vitamin D3 10mg Tablet,Vitamin D3 10mg,Tablet,349.52,192,Apollo Pharmacy,False
+Cetirizine 5mg Capsule,Cetirizine 5mg,Capsule,624.85,29,Apollo Pharmacy,False
+Atorvastatin 5mg Drops,Atorvastatin 5mg,Drops,135.21,173,MedPlus,True
+Cefixime 200mg Syrup,Cefixime 200mg,Syrup,489.99,111,Sharma Medical,True
+Amoxicillin 100mg Gel,Amoxicillin 100mg,Gel,460.23,114,Apollo Pharmacy,True
+Telmisartan 200mg Syrup,Telmisartan 200mg,Syrup,268.19,91,Sharma Medical,True
+Telmisartan 20mg Ointment,Telmisartan 20mg,Ointment,587.79,145,Wellness Forever,True
+Vitamin D3 40mg Drops,Vitamin D3 40mg,Drops,539.09,87,Guardian Pharmacy,False
+Atorvastatin 40mg Injection,Atorvastatin 40mg,Injection,500.52,242,Sharma Medical,True
+Pantoprazole 100mg Gel,Pantoprazole 100mg,Gel,297.5,106,Apollo Pharmacy,False
+Ibuprofen 250mg Cream,Ibuprofen 250mg,Cream,342.23,232,Wellness Forever,False
+Paracetamol 5mg Cream,Paracetamol 5mg,Cream,149.06,85,Apollo Pharmacy,False
+Pantoprazole 500mg Syrup,Pantoprazole 500mg,Syrup,36.08,96,MedPlus,False
+Metformin 20mg Cream,Metformin 20mg,Cream,579.58,68,MedPlus,True
+Pantoprazole 500mg Cream,Pantoprazole 500mg,Cream,375.97,150,MedPlus,False
+Azithromycin 100mg Gel,Azithromycin 100mg,Gel,122.31,216,Sharma Medical,True
+Cefixime 10mg Capsule,Cefixime 10mg,Capsule,35.84,211,Guardian Pharmacy,True
+Methylcobalamin 250mg Capsule,Methylcobalamin 250mg,Capsule,600.15,90,Wellness Forever,False
+Diclofenac 500mg Drops,Diclofenac 500mg,Drops,566.92,63,Sharma Medical,True
+Ofloxacin 40mg Tablet,Ofloxacin 40mg,Tablet,46.53,139,Apollo Pharmacy,True
+Levocetirizine 20mg Syrup,Levocetirizine 20mg,Syrup,332.53,61,MedPlus,False
+Ibuprofen 100mg Drops,Ibuprofen 100mg,Drops,492.31,152,Guardian Pharmacy,False
+Azithromycin 40mg Injection,Azithromycin 40mg,Injection,196.88,105,MedPlus,True
+Metformin 500mg Gel,Metformin 500mg,Gel,315.6,195,Apollo Pharmacy,True
+Losartan 10mg Drops,Losartan 10mg,Drops,66.28,133,Netmeds,True
+Metformin 100mg Syrup,Metformin 100mg,Syrup,368.83,129,Netmeds,True
+Cefixime 200mg Injection,Cefixime 200mg,Injection,405.01,193,Guardian Pharmacy,True
+Atorvastatin 500mg Injection,Atorvastatin 500mg,Injection,181.87,115,Wellness Forever,True
+Cefixime 500mg Capsule,Cefixime 500mg,Capsule,440.57,113,Wellness Forever,True
+Vitamin D3 20mg Injection,Vitamin D3 20mg,Injection,231.81,172,Apollo Pharmacy,False
+Cetirizine 20mg Syrup,Cetirizine 20mg,Syrup,405.15,210,Netmeds,False
+Ofloxacin 100mg Syrup,Ofloxacin 100mg,Syrup,40.63,214,MedPlus,True
+Amlodipine 650mg Gel,Amlodipine 650mg,Gel,495.43,223,Apollo Pharmacy,True
+Amoxicillin 5mg Tablet,Amoxicillin 5mg,Tablet,617.42,242,MedPlus,True
+Cetirizine 20mg Tablet,Cetirizine 20mg,Tablet,454.64,33,Wellness Forever,False
+Aceclofenac 250mg Ointment,Aceclofenac 250mg,Ointment,223.74,194,Guardian Pharmacy,True
+Amlodipine 200mg Injection,Amlodipine 200mg,Injection,345.84,71,Guardian Pharmacy,True
+Tramadol 250mg Syrup,Tramadol 250mg,Syrup,252.28,236,Sharma Medical,True
+Rabeprazole 10mg Tablet,Rabeprazole 10mg,Tablet,120.66,77,MedPlus,False
+Ofloxacin 250mg Cream,Ofloxacin 250mg,Cream,308.65,246,Apollo Pharmacy,True
+Azithromycin 10mg Drops,Azithromycin 10mg,Drops,434.98,238,Sharma Medical,True
+Vitamin D3 250mg Capsule,Vitamin D3 250mg,Capsule,198.61,231,Sharma Medical,False
+Methylcobalamin 40mg Injection,Methylcobalamin 40mg,Injection,336.45,186,Apollo Pharmacy,False
+Levocetirizine 200mg Ointment,Levocetirizine 200mg,Ointment,68.16,55,Guardian Pharmacy,False
+Aceclofenac 250mg Tablet,Aceclofenac 250mg,Tablet,169.84,140,Wellness Forever,True
+Levocetirizine 40mg Ointment,Levocetirizine 40mg,Ointment,486.92,9,Wellness Forever,False
+Vitamin D3 10mg Gel,Vitamin D3 10mg,Gel,162.7,133,Wellness Forever,False
+Ibuprofen 40mg Cream,Ibuprofen 40mg,Cream,580.08,213,Apollo Pharmacy,False
+Losartan 5mg Cream,Losartan 5mg,Cream,108.79,234,Netmeds,True
+Metformin 40mg Capsule,Metformin 40mg,Capsule,344.22,178,Guardian Pharmacy,True
+Atorvastatin 5mg Drops,Atorvastatin 5mg,Drops,377.51,114,Wellness Forever,True
+Ofloxacin 100mg Gel,Ofloxacin 100mg,Gel,357.95,57,Sharma Medical,True
+Metformin 650mg Injection,Metformin 650mg,Injection,209.14,185,Guardian Pharmacy,True
+Metformin 650mg Drops,Metformin 650mg,Drops,430.68,149,MedPlus,True
+Levocetirizine 200mg Capsule,Levocetirizine 200mg,Capsule,352.03,189,Apollo Pharmacy,False
+Telmisartan 650mg Gel,Telmisartan 650mg,Gel,475.88,200,Wellness Forever,True
+Diclofenac 10mg Drops,Diclofenac 10mg,Drops,294.64,244,Sharma Medical,True
+Pantoprazole 5mg Syrup,Pantoprazole 5mg,Syrup,80.12,52,Apollo Pharmacy,False
+Ofloxacin 5mg Cream,Ofloxacin 5mg,Cream,392.48,64,Sharma Medical,True
+Paracetamol 500mg Gel,Paracetamol 500mg,Gel,451.03,127,MedPlus,False
+Rabeprazole 20mg Ointment,Rabeprazole 20mg,Ointment,129.38,104,Netmeds,False
+Tramadol 650mg Syrup,Tramadol 650mg,Syrup,135.3,13,Netmeds,True
+Paracetamol 40mg Cream,Paracetamol 40mg,Cream,153.99,176,MedPlus,False
+Amlodipine 650mg Capsule,Amlodipine 650mg,Capsule,603.49,117,Guardian Pharmacy,True
+Tramadol 100mg Gel,Tramadol 100mg,Gel,578.28,114,Netmeds,True
+Ibuprofen 20mg Drops,Ibuprofen 20mg,Drops,263.47,245,Sharma Medical,False
+Cefixime 200mg Tablet,Cefixime 200mg,Tablet,81.74,121,Apollo Pharmacy,True
+Atorvastatin 250mg Drops,Atorvastatin 250mg,Drops,367.81,137,Sharma Medical,True
+Ibuprofen 10mg Injection,Ibuprofen 10mg,Injection,292.44,231,Wellness Forever,False
+Cetirizine 650mg Ointment,Cetirizine 650mg,Ointment,281.53,161,Apollo Pharmacy,False
+Rabeprazole 100mg Syrup,Rabeprazole 100mg,Syrup,541.47,120,Apollo Pharmacy,False
+Rabeprazole 650mg Capsule,Rabeprazole 650mg,Capsule,508.83,245,Sharma Medical,False
