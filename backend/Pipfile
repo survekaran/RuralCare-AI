@@ -12,6 +12,7 @@ httpx = "*"
 pydantic = {extras = ["dotenv"], version = "*"}
 jinja2 = "*"
 python-multipart = "*"
+exceptiongroup = "*"
 
 [dev-packages]
 black = "*"
