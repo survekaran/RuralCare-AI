@@ -10,9 +10,11 @@ uvicorn = "*"
 gunicorn = "*"
 httpx = "*"
 pydantic = {extras = ["dotenv"], version = "*"}
+pydantic-settings = "*"
 jinja2 = "*"
 python-multipart = "*"
 exceptiongroup = "*"
+
 
 [dev-packages]
 black = "*"
