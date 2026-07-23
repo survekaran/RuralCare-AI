@@ -28,6 +28,8 @@ BASE_DIR = Path(__file__).parent
 
 settings = Settings()
 
+print("CORS ORIGINS:", settings.cors_origins)
+
 pcs: set = set()
 dcs: set = set()
 relay = MediaRelay()
