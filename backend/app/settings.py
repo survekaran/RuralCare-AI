@@ -16,7 +16,7 @@ class Settings(BaseSettings):
     CLOUDINARY_UPLOAD_PRESET: str = ""
     CLOUDINARY_API_KEY: str = ""
     CLOUDINARY_API_SECRET: str = ""
-    CORS_ORIGINS: str = "http://localhost:5173,http://127.0.0.1:5173,https://ruralcare-rust.vercel.app"
+    CORS_ORIGINS: str = "http://localhost:5173,http://127.0.0.1:5173,https://rural-care-ai-one.vercel.app"
 
     @property
     def cors_origins(self) -> List[str]:
