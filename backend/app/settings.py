@@ -6,8 +6,8 @@ from pydantic_settings import BaseSettings
 
 
 class Settings(BaseSettings):
-    LOG_LEVEL: str
-    DEBUG: bool
+    LOG_LEVEL: str = "INFO"
+    DEBUG: bool = False
     DATABASE_URL: str
     GROQ_API_KEY: str = ""
     GROQ_MODEL: str = "llama-3.3-70b-versatile"
