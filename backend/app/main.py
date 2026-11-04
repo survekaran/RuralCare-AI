@@ -1,3 +1,4 @@
+
 import asyncio
 import logging
 import uuid
@@ -15,7 +16,6 @@ from fastapi.templating import Jinja2Templates
 
 from app import exception_handler
 from app.my_media_transform_check import AudioTransformTrack, VideoTransformTrack
-from app.settings import Settings
 from app.database import Base, engine
 from app.routes.auth_routes import router as auth_router
 from app.routes.doctor_routes import router as doctor_router
@@ -23,12 +23,13 @@ from app.routes.health_records_routes import router as health_records_router
 from app.routes.patient_routes import router as patient_router
 from app.routes.pharmacist_routes import router as pharmacist_router
 from app.routes.pharmacy_routes import router as medicine_router
-
-BASE_DIR = Path(__file__).parent
+from app.constants import Settings
 
 settings = Settings()
+BASE_DIR = Path(__file__).parent
 
 print("CORS ORIGINS:", settings.cors_origins)
+
 
 pcs: set = set()
 dcs: set = set()

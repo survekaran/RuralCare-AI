@@ -1,9 +1,19 @@
-venv
-
-# Local environment secrets (keep local, do not commit)
+# Environment variables and secrets
 .env
-frontend/.env
-backend/app/config/dev.env
-backend/app/config/*.local.env
+.env.*
+!.env.example
 
-RuralCare_Documentation.md
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Frontend
+node_modules/
+dist/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
