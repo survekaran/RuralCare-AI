@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { FileText, Upload, AlertCircle, Download, Trash2, Eye, Image as ImageIcon } from "lucide-react";
 import { useAuth } from "../context/AuthContext";
+import { toApiUrl } from "../config/runtime";
 
 interface HealthRecordItem {
   id: string;
@@ -75,6 +76,10 @@ export function HealthRecords() {
   const [recordError, setRecordError] = useState("");
   const [recordSuccess, setRecordSuccess] = useState("");
   const [recordSaving, setRecordSaving] = useState(false);
+  const [analyzingRecordId, setAnalyzingRecordId] = useState<string | null>(null);
+  const [recordAnalysis, setRecordAnalysis] = useState<{ recordId: string; explanation: string; model: string; timestamp: string } | null>(null);
+  const [recordAnalysisError, setRecordAnalysisError] = useState("");
+  const [recordAnalysisErrorId, setRecordAnalysisErrorId] = useState<string | null>(null);
 
   const [recordFile, setRecordFile] = useState<File | null>(null);
   const [recordTitle, setRecordTitle] = useState("");
@@ -89,7 +94,7 @@ export function HealthRecords() {
       }
 
       try {
-        const res = await fetch(`/patients/by-user/${user.userId}`);
+        const res = await fetch(toApiUrl(`/patients/by-user/${user.userId}`));
         if (!res.ok) {
           throw new Error("Failed to fetch health records");
         }
@@ -122,7 +127,7 @@ export function HealthRecords() {
       prescriptions: patient.prescriptions ?? [],
     };
 
-    const res = await fetch(`/patients/${patient.id}`, {
+    const res = await fetch(toApiUrl(`/patients/${patient.id}`), {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(payload),
@@ -166,7 +171,7 @@ export function HealthRecords() {
       const uploadForm = new FormData();
       uploadForm.append("file", recordFile);
 
-      const uploadRes = await fetch("/health-records/upload", {
+      const uploadRes = await fetch(toApiUrl("/health-records/upload"), {
         method: "POST",
         body: uploadForm,
       });
@@ -197,6 +202,52 @@ export function HealthRecords() {
       setRecordError(err instanceof Error ? err.message : "Failed to save record");
     } finally {
       setRecordSaving(false);
+    }
+  };
+
+  const isPdfRecord = (record: HealthRecordItem) =>
+    record.file.toLowerCase().endsWith(".pdf") || (record.file_url ?? "").toLowerCase().includes(".pdf");
+
+  const getPdfActionUrl = (action: "view-pdf" | "download-pdf", record: HealthRecordItem) => {
+    const params = new URLSearchParams({ file_url: record.file_url ?? "", filename: record.file });
+    return toApiUrl(`/health-records/${action}?${params.toString()}`);
+  };
+
+  const handleAnalyzeSavedPdf = async (record: HealthRecordItem) => {
+    if (!record.file_url) {
+      setRecordAnalysisError("This record does not have a stored file URL. Please upload it again.");
+      return;
+    }
+
+    setAnalyzingRecordId(record.id);
+    setRecordAnalysisError("");
+    setRecordAnalysisErrorId(null);
+    setRecordAnalysis(null);
+    try {
+      const formData = new FormData();
+      formData.append("file_url", record.file_url);
+      formData.append("title", record.title);
+
+      const response = await fetch(toApiUrl("/health-records/analyze-pdf"), {
+        method: "POST",
+        body: formData,
+      });
+      const data = await response.json();
+      if (!response.ok || !data.success) {
+        throw new Error(data.error || "Could not analyze this PDF");
+      }
+
+      setRecordAnalysis({
+        recordId: record.id,
+        explanation: data.explanation || "No explanation was returned.",
+        model: data.model || "",
+        timestamp: data.timestamp || "",
+      });
+    } catch (error) {
+      setRecordAnalysisError(error instanceof Error ? error.message : "PDF analysis failed");
+      setRecordAnalysisErrorId(record.id);
+    } finally {
+      setAnalyzingRecordId(null);
     }
   };
 
@@ -242,7 +293,7 @@ export function HealthRecords() {
       formData.append("image", uploadedFile);
       formData.append("custom_prompt", "Explain this medical report in very easy language.");
 
-      const res = await fetch("/health-records/analyze", {
+      const res = await fetch(toApiUrl("/health-records/analyze"), {
         method: "POST",
         body: formData,
       });
@@ -417,38 +468,67 @@ export function HealthRecords() {
                         </div>
 
                         <div className="flex flex-wrap gap-2 mt-4">
-                          <button
-                            type="button"
-                            onClick={() => {
-                              if (record.file_url) window.open(record.file_url, "_blank", "noopener,noreferrer");
-                            }}
-                            className="flex items-center gap-2 px-4 py-2 bg-[#4F7DF3] text-white rounded-xl hover:bg-[#3D6DE3] transition-colors text-sm"
-                            title={record.file_url || record.file}
-                          >
-                            <Eye className="w-4 h-4" />
-                            {record.file}
-                          </button>
-                          {record.file_url ? (
+                          {isPdfRecord(record) ? (
                             <a
-                              href={record.file_url}
+                              href={record.file_url ? getPdfActionUrl("view-pdf", record) : undefined}
                               target="_blank"
                               rel="noopener noreferrer"
+                              onClick={(event) => {
+                                if (!record.file_url) event.preventDefault();
+                              }}
+                              className="flex items-center gap-2 px-4 py-2 bg-[#4F7DF3] text-white rounded-xl hover:bg-[#3D6DE3] transition-colors text-sm"
+                              title="View PDF"
+                            >
+                              <Eye className="w-4 h-4" />
+                              View PDF
+                            </a>
+                          ) : (
+                            <button
+                              type="button"
+                              onClick={() => record.file_url && window.open(record.file_url, "_blank", "noopener,noreferrer")}
+                              disabled={!record.file_url}
+                              className="flex items-center gap-2 px-4 py-2 bg-[#4F7DF3] text-white rounded-xl hover:bg-[#3D6DE3] transition-colors text-sm disabled:opacity-50"
+                            >
+                              <Eye className="w-4 h-4" />
+                              View File
+                            </button>
+                          )}
+
+                          {isPdfRecord(record) ? (
+                            <a
+                              href={record.file_url ? getPdfActionUrl("download-pdf", record) : undefined}
+                              onClick={(event) => {
+                                if (!record.file_url) event.preventDefault();
+                              }}
                               className="flex items-center gap-2 px-4 py-2 bg-white text-[#4F7DF3] border-2 border-[#4F7DF3] rounded-xl hover:bg-[#F8FAFC] transition-colors text-sm"
-                              download
                             >
                               <Download className="w-4 h-4" />
                               Download
                             </a>
                           ) : (
-                            <button
-                              type="button"
+                            <a
+                              href={record.file_url || undefined}
+                              target="_blank"
+                              rel="noopener noreferrer"
                               className="flex items-center gap-2 px-4 py-2 bg-white text-[#4F7DF3] border-2 border-[#4F7DF3] rounded-xl hover:bg-[#F8FAFC] transition-colors text-sm"
-                              title="No file URL available"
                             >
                               <Download className="w-4 h-4" />
                               Download
+                            </a>
+                          )}
+
+                          {isPdfRecord(record) && (
+                            <button
+                              type="button"
+                              onClick={() => handleAnalyzeSavedPdf(record)}
+                              disabled={analyzingRecordId !== null || !record.file_url}
+                              className="flex items-center gap-2 px-4 py-2 bg-violet-600 text-white rounded-xl hover:bg-violet-700 transition-colors text-sm disabled:opacity-50"
+                            >
+                              <span aria-hidden="true">✦</span>
+                              {analyzingRecordId === record.id ? "Analyzing PDF..." : "Analyze with AI"}
                             </button>
                           )}
+
                           <button
                             type="button"
                             onClick={() => handleDeleteRecord(record.id)}
@@ -459,6 +539,24 @@ export function HealthRecords() {
                             Delete
                           </button>
                         </div>
+
+                        {recordAnalysisError && recordAnalysisErrorId === record.id && (
+                          <div className="mt-4 p-4 rounded-xl bg-rose-50 border border-rose-200 text-rose-700 text-sm">
+                            {recordAnalysisError}
+                          </div>
+                        )}
+                        {recordAnalysis?.recordId === record.id && (
+                          <div className="mt-4 p-5 rounded-xl bg-violet-50 border border-violet-200">
+                            <h4 className="font-semibold text-[#1E293B] mb-3">AI Report Analysis</h4>
+                            <p className="text-sm text-[#334155] whitespace-pre-wrap leading-6">{recordAnalysis.explanation}</p>
+                            <p className="text-xs text-[#64748B] mt-4">
+                              {recordAnalysis.model}{recordAnalysis.timestamp ? ` • ${new Date(recordAnalysis.timestamp).toLocaleString()}` : ""}
+                            </p>
+                            <p className="text-xs text-[#64748B] mt-3">
+                              AI-generated explanation only, not a medical diagnosis. Please review abnormal results with a qualified clinician.
+                            </p>
+                          </div>
+                        )}
                       </div>
                     </div>
                   </div>

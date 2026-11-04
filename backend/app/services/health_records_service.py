@@ -2,6 +2,8 @@ import base64
 import json
 import mimetypes
 import uuid
+from io import BytesIO
+from urllib.parse import urlparse
 from datetime import datetime
 from urllib import error, request
 
@@ -171,7 +173,11 @@ def upload_file_to_cloudinary(file_bytes: bytes, filename: str, content_type: st
 
     # Prefer unsigned preset upload when configured.
     if upload_preset:
-        endpoint = f"https://api.cloudinary.com/v1_1/{cloud_name}/auto/upload"
+        is_pdf = filename.lower().endswith(".pdf") or content_type.lower() == "application/pdf"
+        # Store PDFs as raw assets. Cloudinary's image delivery can block PDF
+        # rendering on accounts where PDF delivery is restricted.
+        resource_type = "raw" if is_pdf else "auto"
+        endpoint = f"https://api.cloudinary.com/v1_1/{cloud_name}/{resource_type}/upload"
         guessed_type = content_type or mimetypes.guess_type(filename)[0] or "application/octet-stream"
         multipart_body, boundary = _build_multipart_body(
             file_bytes=file_bytes,
@@ -206,3 +212,119 @@ def upload_file_to_cloudinary(file_bytes: bytes, filename: str, content_type: st
         raise RuntimeError("Cloudinary signed upload is not yet configured. Please set CLOUDINARY_UPLOAD_PRESET")
 
     raise RuntimeError("Cloudinary credentials are not configured")
+
+
+def fetch_cloudinary_pdf(file_url: str) -> bytes:
+    """Fetch a PDF only from this app's Cloudinary account."""
+    import httpx
+
+    parsed = urlparse(file_url)
+    cloud_name = settings.CLOUDINARY_CLOUD_NAME
+    expected_prefix = f"/{cloud_name}/" if cloud_name else ""
+    if (
+        parsed.scheme != "https"
+        or parsed.hostname != "res.cloudinary.com"
+        or not expected_prefix
+        or not parsed.path.startswith(expected_prefix)
+        or not any(segment in parsed.path for segment in ("/raw/upload/", "/image/upload/"))
+        or not parsed.path.lower().endswith(".pdf")
+    ):
+        raise ValueError("This file is not a valid PDF hosted in the configured Cloudinary account")
+
+    try:
+        with httpx.Client(timeout=60, follow_redirects=True) as client:
+            response = client.get(file_url)
+            response.raise_for_status()
+    except httpx.HTTPError as exc:
+        raise RuntimeError(f"Could not retrieve the PDF from Cloudinary: {exc}") from exc
+
+    content = response.content
+    if not content.startswith(b"%PDF"):
+        raise RuntimeError("The stored file is not a readable PDF")
+    if len(content) > 15 * 1024 * 1024:
+        raise RuntimeError("PDF is too large to process (15 MB maximum)")
+    return content
+
+
+def analyze_report_pdf(file_bytes: bytes, title: str = "Medical report") -> dict:
+    """Extract selectable PDF text and ask Groq to explain the report."""
+    from pypdf import PdfReader
+    import httpx
+
+    api_key = settings.GROQ_API_KEY
+    if not api_key:
+        raise RuntimeError("GROQ_API_KEY is not configured in backend environment")
+
+    try:
+        reader = PdfReader(BytesIO(file_bytes))
+        pages = []
+        for page_number, page in enumerate(reader.pages[:30], start=1):
+            page_text = page.extract_text() or ""
+            if page_text.strip():
+                pages.append(f"[Page {page_number}]\n{page_text.strip()}")
+        report_text = "\n\n".join(pages).strip()
+    except Exception as exc:
+        raise RuntimeError(f"Could not read this PDF: {exc}") from exc
+
+    if not report_text:
+        raise RuntimeError(
+            "No selectable text was found in this PDF. It may be a scanned document. "
+            "Please upload a text-based PDF or a clear JPG/PNG image of the report."
+        )
+
+    # Keep the request bounded while preserving the report's extracted content.
+    report_text = report_text[:24000]
+    prompt = f"""You are SwasthAI, a careful medical-report explainer. Explain this report in plain, reassuring language.
+
+Report title: {title}
+
+Instructions:
+- Do not diagnose, prescribe, or recommend specific medicines.
+- Identify each test/value, its result, unit, and reference range when present.
+- Clearly distinguish values marked high/low/abnormal from values in range. Do not invent reference ranges.
+- Explain what abnormal results can commonly mean, while making clear that one result alone cannot establish a diagnosis.
+- Point out missing context and recommend discussing abnormal or concerning results with a qualified clinician.
+- End with a short summary and practical next steps.
+- If the document is not a medical report or the text is unclear, say so.
+
+Extracted report text:
+{report_text}"""
+
+    model = settings.GROQ_MODEL
+    payload = {
+        "model": model,
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.2,
+        "max_tokens": 1800,
+    }
+    try:
+        with httpx.Client(timeout=90) as client:
+            response = client.post(
+                API_URL,
+                json=payload,
+                headers={"Authorization": f"Bearer {api_key}"},
+            )
+            response.raise_for_status()
+            response_data = response.json()
+    except httpx.HTTPStatusError as exc:
+        body = exc.response.text[:1200]
+        raise RuntimeError(f"Groq HTTP {exc.response.status_code}: {body}") from exc
+    except httpx.HTTPError as exc:
+        raise RuntimeError(f"Groq request failed: {exc}") from exc
+
+    explanation = (
+        response_data.get("choices", [{}])[0]
+        .get("message", {})
+        .get("content", "")
+        .strip()
+    )
+    if not explanation:
+        raise RuntimeError("AI model returned an empty explanation")
+
+    return {
+        "success": True,
+        "explanation": explanation,
+        "model": model,
+        "timestamp": datetime.now().astimezone().isoformat(),
+        "error": None,
+    }
