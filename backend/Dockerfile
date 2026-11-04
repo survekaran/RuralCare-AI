@@ -1,4 +1,5 @@
-FROM python:3.10
+
+FROM python:3.12
 
 WORKDIR /usr/src/app
 
@@ -9,7 +10,8 @@ RUN apt-get update -yqq && \
     build-essential autoconf libssl-dev libffi-dev \
     openssl libgl1-mesa-dev libglib2.0-0 libsm6 libxrender1 libxext6 \
     libavdevice-dev libavfilter-dev libopus-dev libvpx-dev libopencv-dev && \
-    apt-get clean
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/*
 
 COPY requirements.txt .
 
